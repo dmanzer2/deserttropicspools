@@ -1,7 +1,7 @@
 
-[![Build Status](https://travis-ci.org/dmanzer2/vorex.svg?branch=master)](https://travis-ci.org/dmanzer2/deserttropicspools)
+[![Build Status](https://travis-ci.org/dmanzer2/vorex.svg?branch=master)](https://travis-ci.org/dmanzer2/vorex)
 
-# Desert Tropics Custom Pools
+# vorex
 
 - NOTE: Perform steps 2-3 only if machine hasn't been setup with node and grunt
 - Download and Install node https://nodejs.org/en/
