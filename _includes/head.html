@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+<link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/logos-favicons/favicon.ico" type="image/x-icon" />
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script>(function(){document.documentElement.className='js'})();</script>
+
+<script src="https://use.typekit.net/buq6zan.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<meta name="robots" content="noodp,noydir"/>
+<meta name="description" content="{{ site.description }}">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Online Business Management Software - PSA Software | Vorex" />
+<meta property="og:description" content="{{ site.description }}" />
+<meta property="og:url" content="" />
+<meta property="og:site_name" content="Vorex, Inc." />
+<link rel="manifest" href="manifest.json">
+
+<link rel="alternate" type="application/rss+xml" title="Vorex, Inc. &raquo; Feed" href="#" />
+<link rel="alternate" type="application/rss+xml" title="Vorex, Inc. &raquo; Comments Feed" href="#" />
+
+<link rel='stylesheet' href='{{ site.baseurl }}/assets/genericons/genericons.css' type='text/css' media='all' />
+<link rel='stylesheet' href='{{ site.baseurl }}/assets/css/main.css' type='text/css' media='all' />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type='text/javascript' src='{{ site.baseurl }}/assets/js/typed.min.js'></script>
+
+<link rel='shortlink' href='#' />
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W52V3S"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W52V3S');</script>
+<!-- End Google Tag Manager -->
+<script src="{{ site.baseurl }}/assets/js/myscripts.js"></script>
+<meta name="google-site-verification" content="jik4V6YJCWMLUd4vGaNzJg0asZt_44SJWndW6Mh0Xm4" />
+<script>
+  (function($) {
+    $(".typed").typed({
+      strings: ["Business", "Life", "World"],
+      startDelay: 500,
+      typeSpeed: 22,
+      backSpeed: 22,
+      loop: true,
+      showCursor: false,
+      backDelay: 2000
+    });
+  })(jQuery);
+</script>
+
+<script>
+  (function($) {
+    $("#note-close").click(function(e) {
+      $(".notification-row").hide();
+    });
+  })(jQuery);
+</script>
+</head>

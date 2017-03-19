@@ -1,0 +1,63 @@
+---
+title: Vorex by Kaseya
+permalink: /
+layout: main-template
+description: This is the index page and its description.
+hero_background_image: /assets/img/banners/vorex-banner2-1920x750.jpg
+hero_title_color_style: default
+hero_paragraph_and_button_color_style: white
+photo_section_background_image: /assets/img/banners/home-banner-2.jpg
+photo_section_text_color_style: default
+photo_section_button_color_style: default
+Blocks:
+  - Hero
+  - Download CTA
+  - 2 Col Photo Right
+  - full width bg section
+  - 2 col image right
+  - 2 col image left
+  - free trail cta
+  -
+---
+
+<style>
+/*for client text color change*/
+.front-page .one-column.section2 .section-title span:before,
+.front-page .one-column.section2 .section-title span:after {
+	background-color: {{ page.photo_section_text_color_style }};
+}
+</style>
+
+<div id="page" class="site">
+	<div id="content" class="site-content">
+		<div id="primary" class="content-area front-page">
+
+			<!-- Hero with image, text and free trial cta - typed js pluging for this area -->
+			{% include hero-home.html %}
+
+			<!-- Free ebook cta with download button -->
+			{% include home-cta.html %}
+
+			<!-- Main section of the homepage -->
+			<main id="main" class="site-main" role="main">
+
+				<!-- Two column section with image on the right and learn more cta -->
+				{% include two-col-img-right-home.html %}
+
+				<!-- Full width background image with centered text and how we can help cta -->
+				{% include full-width-bg-home.html %}
+
+				<!-- Two column section for blog and link to blog page -->
+				{% include blog-home.html %}
+
+				<!-- reviews and testimonitals section with full-width background and centered text -->
+				{% include reviews-home.html %}
+
+				<!-- full width background cta with free trial button -->
+				{% include free-trial-cta.html %}
+
+			</main><!-- .site-main -->
+		</div><!-- .content-area -->
+
+	</div><!-- .site-content -->
+</div><!-- .site -->

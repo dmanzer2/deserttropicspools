@@ -1,0 +1,64 @@
+---
+title: Online Business Management Software - PSA Software | Vorex
+timezone: US/Arizona
+collections:
+  uploads:
+    title: Uploads
+    output: true
+  posts:
+    title: Vorex Blog Posts
+    output: true
+    permalink: /blog/:title/
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    comments: true
+- scope:
+    path: ''
+  values:
+    layout: default
+    show-avatar: true
+gems:
+- jekyll-feed
+url: "/"
+enforce_ssl: ''
+baseurl: ''
+description: Vorex cloud-based business management software helps you focus on strategy to grow your business instead of tactical operational execution that frustrates, complicates and clogs up your day.
+keywords: cloud-based software, business management software, PSA Software
+desc: sample description
+avatar: ''
+profile:
+  name: Vorex by Kaseya
+  email:
+  facebook: your-fb-id
+  github:
+  twitter: your-twitter-id
+  linkedin:
+  stackoverflow:
+pretty-url: vorex.com
+disqus: Your-Disqus-Id
+google_analytics: Your-GA-Id
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  sass_dir: bower_components/bootstrap-sass/assets/stylesheets
+  style: compressed
+exclude:
+  - node_modules
+  - Gruntfile.js
+  - package.json
+created-by: Kaseya Digital Marketing Team
+creator-url:
+  exclude:
+    - node_modules
+styles:
+  - default
+  - white
+  - black
+development:
+  asset_url: "http://localhost:3000/assets"
+  app_url: "http://localhost:3000/"
