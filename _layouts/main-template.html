@@ -1,13 +1,18 @@
 {% include head.html %}
 
-<body class="parallax">
-  <!-- navigation -->
-  {% include header.html %}
+<body class="stretched">
+  <div id="wrapper" class="clearfix">
+    <!-- navigation -->
+    {% include header.html %}
 
-  {{ content }}
+    {{ content }}
 
-  {% include footer.html %}
+    {% include footer.html %}
 
-  {% include scripts.html %}
+    {% include scripts.html %}
+  </div>
+  <!-- Go To Top
+  ============================================= -->
+  <div id="gotoTop" class="icon-angle-up"></div>
 </body>
 </html>
