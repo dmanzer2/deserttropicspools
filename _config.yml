@@ -1,12 +1,12 @@
 ---
-title: Online Business Management Software - PSA Software | Vorex
+title: Desert Tropics Custom Pools
 timezone: US/Arizona
 collections:
   uploads:
     title: Uploads
     output: true
   posts:
-    title: Vorex Blog Posts
+    title: Desert Tropics Blog Posts
     output: true
     permalink: /blog/:title/
 defaults:
@@ -25,14 +25,14 @@ gems:
 url: "/"
 enforce_ssl: ''
 baseurl: ''
-description: Vorex cloud-based business management software helps you focus on strategy to grow your business instead of tactical operational execution that frustrates, complicates and clogs up your day.
-keywords: cloud-based software, business management software, PSA Software
-desc: sample description
+description: Desert Tropics Custom Pools has been building pools in the Valley since 2001. Our President is also the Qualifying Party for our license. We don’t strive to build the most pools in the Valley, though we do strive to build the best pools in the Valley.
+keywords: Arizona custom pool builder, AZ pool builder, Custom pool builder AZ, Swimming pool design AZ, Custom swimming pools Paradise Valley, Custom swimming pools Scottsdale, Custom swimming pools Arizona, Custom swimming pools Phoenix, Custom pool and spa builder, Custom swimming pool designer Arizona, Pebble tec pools Arizona, Custom pool designer Arizona, Spa builder Arizona, Custom spas Arizona, Natural pools Arizona, Eco friendly pools Arizona, Custom pools phoenix, Award winning pools AZ, Pool remodeler Arizona, Negative edge pools
+desc: Desert Tropics Custom Pools
 avatar: ''
 profile:
-  name: Vorex by Kaseya
-  email:
-  facebook: your-fb-id
+  name: Desert Tropics Custom Pools
+  email: info@deserttropics.com
+  facebook: deserttropicspools
   github:
   twitter: your-twitter-id
   linkedin:
@@ -51,7 +51,7 @@ exclude:
   - node_modules
   - Gruntfile.js
   - package.json
-created-by: Kaseya Digital Marketing Team
+created-by: David Manzer | G2 Design Lab
 creator-url:
   exclude:
     - node_modules
