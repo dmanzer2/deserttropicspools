@@ -60,3 +60,11 @@ Desert Tropics Custom Pools - Styles
 #header.transparent-header.floating-header .container {
   background-color: rgba(255,255,255,0.8);
 }
+
+.dark #footer .social-icon.si-borderless, #footer.dark .social-icon.si-borderless {
+      color: rgba(255,255,255,0.25) !important;
+}
+
+#header.transparent-header.floating-header .container {
+  border-radius: 60px;
+}
