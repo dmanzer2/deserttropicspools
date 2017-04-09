@@ -69,3 +69,65 @@ Desert Tropics Custom Pools - Styles
 .button:hover {
   background-color: #8BD1A6;
 }
+
+
+#ocean {z-index: 100;}
+.wave {
+  bottom: -50px;
+  background: #7ecef4;
+  opacity: 0.5;
+  display: inline-block;
+  height: 35%;
+  width: 10px;
+  position: absolute;
+  z-index: 1 !important;
+  animation-name: dostuff;
+  animation-duration: 2.74159s;
+  animation-iteration-count: infinite;
+  transition-timing-function: ease-in-out;
+}
+.wave_middle {
+  bottom: -50px;
+  background: #0068b7;
+  opacity: 0.3;
+  display: inline-block;
+  height: 27%;
+  width: 10px;
+  position: absolute;
+  z-index: 1 !important;
+  animation-name: dostuff_mid;
+  animation-duration: 3.42s;
+  animation-iteration-count: infinite;
+  transition-timing-function: ease-in-out;
+}
+.wave_bottom {
+  bottom: -50px;
+  background: #002e73;
+  opacity: 0.8;
+  display: inline-block;
+  height: 17%;
+  width: 10px;
+  position: absolute;
+  z-index: 1 !important;
+  animation-name: dostuff_bot;
+  animation-duration: 2.54s;
+  animation-iteration-count: infinite;
+  transition-timing-function: ease-in-out;
+}
+
+/* amplitude animation*/
+@keyframes dostuff {
+  0% {height: 35%;}
+  50% {height: 48%;}
+  100% {height: 35%;}
+}
+@keyframes dostuff_mid {
+  0% {height: 27%;}
+  50% {height: 36%;}
+  100% {height: 27%;}
+}
+@keyframes dostuff_bot {
+  0% {height: 17%;}
+  50% {height: 23%;}
+  100% {height: 17%;}
+}
