@@ -103,6 +103,7 @@ body.stretched #header.full-header .container {
 }
 
 #logo img {
+	padding-top: 10px;
 	display: block;
 	max-width: 100%;
 }
@@ -1062,7 +1063,7 @@ body:not(.device-sm):not(.device-xs):not(.device-xxs) #header.transparent-header
 #header,
 #header-wrap,
 #logo img {
-	height: 100px;
+	height: 90px;
 	-webkit-transition: height .4s ease, opacity .3s ease;
 	-o-transition: height .4s ease, opacity .3s ease;
 	transition: height .4s ease, opacity .3s ease;

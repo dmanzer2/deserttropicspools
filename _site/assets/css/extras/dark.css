@@ -93,7 +93,7 @@ body #side-panel.dark { background-color: #383838; }
 #header.dark.transparent-header.floating-header .container,
 #header.dark.transparent-header.floating-header.sticky-header .container,
 .dark .responsive-sticky-header #header-wrap,
-.responsive-sticky-header.dark #header-wrap { background-color: #333; }
+.responsive-sticky-header.dark #header-wrap { background-color: #08161B; }
 
 .dark #header.full-header #header-wrap:not(.not-dark),
 #header.full-header.dark #header-wrap:not(.not-dark) { border-bottom-color: rgba(255,255,255,0.15); }
@@ -110,7 +110,7 @@ body #side-panel.dark { background-color: #383838; }
 .dark #header.semi-transparent,
 .dark #header.semi-transparent.floating-header .container,
 #header.dark.semi-transparent,
-#header.dark.semi-transparent.floating-header .container { background-color: rgba(0,0,0,0.6); }
+#header.dark.semi-transparent.floating-header .container { background-color: rgba(0,0,0,0.8); }
 
 .dark #header.sticky-header.semi-transparent,
 .dark #header.semi-transparent.floating-header,
@@ -146,7 +146,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark #header-wrap:not(.not-dark) #top-cart a:hover,
 .dark #header-wrap:not(.not-dark) #side-panel-trigger a:hover,
 .dark #header-wrap:not(.not-dark) #top-search form input {
-	color: #EEE;
+	color: #aaa;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 }
 
@@ -177,9 +177,9 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark #primary-menu:not(.not-dark) ul li .mega-menu-content,
 #primary-menu.dark ul ul,
 #primary-menu.dark ul li .mega-menu-content {
-	background-color: #333;
-	border-color: #3F3F3F;
-	border-top-color: #1ABC9C;
+	background-color: rgba(0,0,0,0.9);
+	border-color: #000;
+	border-top-color: #FBAA1E;
 }
 
 .dark.overlay-menu #primary-menu:not(.not-dark) ul,
@@ -311,7 +311,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark .slider-caption,
 .dark .slider-caption h2 {
 	color: #EEE;
-	text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
+	text-shadow: 1px 1px 10px rgba(0,0,0,0.85);
 }
 
 .not-dark .slider-caption,

@@ -1019,7 +1019,7 @@ body:not(.device-sm):not(.device-xs):not(.device-xxs) #header.transparent-header
 #header,
 #header-wrap,
 #logo img {
-	height: $header-height;
+	height: 90px;
 	@include transition(height .4s ease, opacity .3s ease);
 }
 

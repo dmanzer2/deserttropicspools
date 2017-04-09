@@ -57,14 +57,15 @@ Desert Tropics Custom Pools - Styles
 @import "extra/responsive.css";
 
 // Overides
-#header.transparent-header.floating-header .container {
-  background-color: rgba(255,255,255,0.8);
-}
-
-.dark #footer .social-icon.si-borderless, #footer.dark .social-icon.si-borderless {
-      color: rgba(255,255,255,0.25) !important;
-}
 
 #header.transparent-header.floating-header .container {
   border-radius: 60px;
+}
+#logo img {
+  height: 90px;
+  padding-top: 10px;
+}
+
+.button:hover {
+  background-color: #8BD1A6;
 }
