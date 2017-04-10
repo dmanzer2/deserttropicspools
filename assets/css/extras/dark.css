@@ -310,9 +310,9 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 
 .dark .slider-caption,
 .dark .slider-caption h2 {
-	color: #EEE;
-	text-shadow: 1px 1px 10px rgba(0,0,0,0.85);
-	margin-top: -20px;
+	color: #EEE !important;
+	text-shadow: 1px 1px 10px rgba(0,0,0,0.85) !important;
+	margin-top: -20px !important;
 }
 
 .not-dark .slider-caption,

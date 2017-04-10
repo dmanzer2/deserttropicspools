@@ -356,8 +356,8 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 
 .slider-caption:not(.dark),
 .slider-caption:not(.dark) h2 {
-	color: #222;
-	text-shadow: none;
+	color: #eee;
+  text-shadow: 1px 1px 10px rgba(0,0,0,0.85);
 }
 
 .slider-caption h2 {
@@ -632,4 +632,3 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 
 #slider .owl-dots .owl-dot.active span,
 #slider .owl-dots .owl-dot:hover span { background-color: #FFF !important; }
-
