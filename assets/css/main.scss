@@ -61,6 +61,7 @@ Desert Tropics Custom Pools - Styles
 #header.transparent-header.floating-header .container {
   border-radius: 60px;
 }
+
 #logo img {
   height: 90px;
   padding-top: 10px;
@@ -70,10 +71,98 @@ Desert Tropics Custom Pools - Styles
   background-color: #8BD1A6;
 }
 
+.slider-caption.slider-caption-center {
+  max-width: 900px;
+
+  p {
+    max-width: 800px;
+    margin: auto;
+  }
+}
+
+#slider-arrow-left {
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+#slider-arrow-right {
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+.home .content-wrap .header-stick {
+  margin-top: 0 !important;
+}
+
+#header.about.transparent-header.floating-header {
+  padding: 60px 0;
+  margin: 0 !important;
+}
+
+#header.about {
+  height: 220px;
+}
+
+#header.about.dark.semi-transparent.floating-header {
+  background-color: #497AA0 !important;
+  background-image: url('{{ site.baseurl }}/assets/images/slider/swiper/2.jpg');
+  background-position: center -620px;
+}
+
+@media (max-width: 991px) {
+  #header.about.transparent-header.floating-header {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  #header.about {
+    height: 90px;
+  }
+  #header.about.dark.semi-transparent.floating-header {
+    background-color: #000 !important;
+    background-image: none;
+  }
+}
+
+.about-page {
+  margin-top: 0 !important;
+}
+
+#content .content-wrap {
+  padding: 50px 0 !important;
+}
+
+#page-title {
+    position: relative;
+    padding: 50px 0 0;
+    background-color: #fff;
+    border: none;
+
+    h1 {
+      color: #012737;
+    }
+}
+
+#content.about-page {
+  .heading-block {
+    margin: 50px 0;
+  }
+  .content-wrap {
+  padding: 50px 0 0 !important;
+  }
+  .promo-full {
+    border-radius: 0 !important;
+  }
+  .promo.promo-dark {
+    background-color: #08161B;
+  }
+  .footer-stick {
+    margin-bottom: 0px !important;
+  }
+}
 
 #ocean {z-index: 100;}
 .wave {
-  bottom: -50px;
+  bottom: -70px;
   background: #7ecef4;
   opacity: 0.5;
   display: inline-block;
@@ -82,7 +171,7 @@ Desert Tropics Custom Pools - Styles
   position: absolute;
   z-index: 1 !important;
   animation-name: dostuff;
-  animation-duration: 2.74159s;
+  animation-duration: 3s;
   animation-iteration-count: infinite;
   transition-timing-function: ease-in-out;
 }
@@ -96,7 +185,7 @@ Desert Tropics Custom Pools - Styles
   position: absolute;
   z-index: 1 !important;
   animation-name: dostuff_mid;
-  animation-duration: 3.42s;
+  animation-duration: 4s;
   animation-iteration-count: infinite;
   transition-timing-function: ease-in-out;
 }
@@ -110,7 +199,7 @@ Desert Tropics Custom Pools - Styles
   position: absolute;
   z-index: 1 !important;
   animation-name: dostuff_bot;
-  animation-duration: 2.54s;
+  animation-duration: 3s;
   animation-iteration-count: infinite;
   transition-timing-function: ease-in-out;
 }
@@ -118,12 +207,12 @@ Desert Tropics Custom Pools - Styles
 /* amplitude animation*/
 @keyframes dostuff {
   0% {height: 35%;}
-  50% {height: 48%;}
+  50% {height: 20%;}
   100% {height: 35%;}
 }
 @keyframes dostuff_mid {
   0% {height: 27%;}
-  50% {height: 36%;}
+  50% {height: 40%;}
   100% {height: 27%;}
 }
 @keyframes dostuff_bot {

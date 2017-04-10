@@ -6,7 +6,7 @@ description: This is the index page and its description.
 
 ---
 
-<section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix">
+<section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix" data-effect="fade" data-loop="true" data-speed="1000" data-progress="true">
 	<div class="slider-parallax-inner">
 		<div class="swiper-container swiper-parent">
 			<div class="swiper-wrapper">
@@ -21,23 +21,23 @@ description: This is the index page and its description.
 				<div class="swiper-slide dark">
 					<div class="container clearfix">
 						<div class="slider-caption slider-caption-center">
-							<h2 data-caption-animate="fadeInUp">Beautifully Flexible</h2>
-							<p data-caption-animate="fadeInUp" data-caption-delay="200">Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
+							<h2 data-caption-animate="fadeInUp">Beautifully Designed</h2>
+							<p data-caption-animate="fadeInUp" data-caption-delay="200">We appreciate the opportunity to create an environment that will bring you pleasure and enhance the value of your home for years to come.</p>
 						</div>
 					</div>
 					<div class="video-wrap">
 						<video poster="{{ site.baseurl }}/assets/images/videos/explore.jpg" preload="auto" loop autoplay muted>
-							<source src='{{ site.baseurl }}/assets/images/videos/explore.mp4' type='video/mp4' />
+							<source src='{{ site.baseurl }}/assets/images/videos/pool.mp4' type='video/mp4' />
 							<source src='{{ site.baseurl }}/assets/images/videos/explore.webm' type='video/webm' />
 						</video>
-						<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
+						<div class="video-overlay" style="background-color: rgba(0,0,0,0.35);"></div>
 					</div>
 				</div>
-				<div class="swiper-slide" style="background-image: url('{{ site.baseurl }}/assets/images/slider/swiper/3.jpg'); background-position: center top;">
+				<div class="swiper-slide dark" style="background-image: url('{{ site.baseurl }}/assets/images/slider/swiper/3.jpg'); background-position: center top;">
 					<div class="container clearfix">
-						<div class="slider-caption">
-							<h2 data-caption-animate="fadeInUp">Great Performance</h2>
-							<p data-caption-animate="fadeInUp" data-caption-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
+						<div class="slider-caption slider-caption-center">
+							<h2 data-caption-animate="fadeInUp">Our personal approach to pool building</h2>
+							<p data-caption-animate="fadeInUp" data-caption-delay="200">ensures continuity throughout the process, allowing you to relax in knowing your project will turn out exactly as you had envisioned.</p>
 						</div>
 					</div>
 				</div>
@@ -52,8 +52,7 @@ description: This is the index page and its description.
 
 <!-- Content
 ============================================= -->
-<section id="content">
-
+<section id="content" class="home">
 	<div class="content-wrap">
 
 		<div class="promo promo-full promo-border header-stick bottommargin-lg">
@@ -65,7 +64,6 @@ description: This is the index page and its description.
 		</div>
 
 		<div class="container clearfix">
-
 			<div class="col_one_third">
 				<div class="feature-box fbox-effect">
 					<div class="fbox-icon">
