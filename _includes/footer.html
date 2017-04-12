@@ -17,7 +17,7 @@
 						</address>
 						<abbr title="Phone Number"><strong>Phone:</strong></abbr> 602-787-1603<br>
 						<abbr title="Fax"><strong>Fax:</strong></abbr> 602-787-1647<br>
-						<abbr title="Email Address"><strong>Email:</strong></abbr> info@deserttropics.com<br>
+						<abbr title="Email Address"><strong>Email:</strong></abbr> {{ site.profile.email }} <br>
 						<abbr title="Residential"><strong>Residential:</strong></abbr> ROC 167483 B-5<br>
 						<abbr title="Commercial"><strong>Commercial:</strong></abbr> ROC 222891 A-9<br>
 					</div>
@@ -67,7 +67,6 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="widget clearfix">
 					<a href="#" class="social-icon si-small si-rounded si-facebook">
 						<i class="icon-facebook"></i>
@@ -107,21 +106,6 @@
 		</div><!-- .footer-widgets-wrap end -->
 	</div>
 
-	<!-- Copyrights
-	============================================= -->
-	<div id="copyrights">
-		<div class="container clearfix">
-			<div class="col_half">
-				Copyrights &copy; 2017 Desert Tropics Custom Pools
-			</div>
-			<div class="col_half col_last tright">
-				<div class="fright clearfix">
-					<div class="copyrights-menu copyright-links nobottommargin">
-						<a href="/">Home</a>/<a href="/about">About</a>/<a href="#">Gallery</a>/<a href="#">Customers</a>/<a href="#">Blog</a>/<a href="#">Contact</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div><!-- #copyrights end -->
+	{% include copyright-footer.html %}
 
 </footer><!-- #footer end -->
