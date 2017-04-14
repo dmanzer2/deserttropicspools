@@ -173,6 +173,17 @@ Desert Tropics Custom Pools - Styles
   }
 }
 
+#gotoTop {
+  border-radius:22px;
+}
+
+i.acc-closed.icon-ok-circle {
+  color: #168ACA;
+}
+i.acc-open.icon-remove-circle {
+  color: #FBAA1E;
+}
+
 #ocean {z-index: 100;}
 .wave {
   bottom: -70px;
