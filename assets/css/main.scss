@@ -14,12 +14,10 @@ Desert Tropics Custom Pools - Styles
 @import "desert-tropics-sass/variables.scss";
 @import "desert-tropics-sass/mixins.scss";
 
-
 // Core CSS
 @import "desert-tropics-sass/typography.scss";
 @import "desert-tropics-sass/helpers.scss";
 @import "desert-tropics-sass/layouts.scss";
-
 
 // Content Blocks
 @import "desert-tropics-sass/topbar.scss";
@@ -32,18 +30,14 @@ Desert Tropics Custom Pools - Styles
 @import "desert-tropics-sass/shop.scss";
 @import "desert-tropics-sass/events.scss";
 
-
 // Shortcodes
 @import "desert-tropics-sass/shortcodes.scss";
-
 
 // Footer
 @import "desert-tropics-sass/footer.scss";
 
-
 // Widgets
 @import "desert-tropics-sass/widgets.scss";
-
 
 // Extras
 @import "desert-tropics-sass/extras.scss";
@@ -169,6 +163,11 @@ Desert Tropics Custom Pools - Styles
   .content-wrap {
   padding: 50px 0 0 !important;
   }
+}
+
+.testi-image, .testi-image a, .testi-image img.home, .testi-image i {
+  width: 85px !important;
+  height: 85px !important;
 }
 
 #gotoTop {
