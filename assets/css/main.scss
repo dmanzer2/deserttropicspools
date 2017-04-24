@@ -10,38 +10,8 @@ Desert Tropics Custom Pools - Styles
 // Bootstrap
 @import "bootstrap.scss";
 
-// Initialize
-@import "desert-tropics-sass/variables.scss";
-@import "desert-tropics-sass/mixins.scss";
-
-// Core CSS
-@import "desert-tropics-sass/typography.scss";
-@import "desert-tropics-sass/helpers.scss";
-@import "desert-tropics-sass/layouts.scss";
-
-// Content Blocks
-@import "desert-tropics-sass/topbar.scss";
-@import "desert-tropics-sass/header.scss";
-@import "desert-tropics-sass/sliders.scss";
-@import "desert-tropics-sass/pagetitle.scss";
-@import "desert-tropics-sass/content.scss";
-@import "desert-tropics-sass/portfolio.scss";
-@import "desert-tropics-sass/blog.scss";
-@import "desert-tropics-sass/events.scss";
-
-// Shortcodes
-@import "desert-tropics-sass/shortcodes.scss";
-
-// Footer
-@import "desert-tropics-sass/footer.scss";
-
-// Widgets
-@import "desert-tropics-sass/widgets.scss";
-
-// Extras
-@import "desert-tropics-sass/extras.scss";
-
 // Additional Css
+@import "extras/style.css";
 @import "extras/swiper.css";
 @import "extras/dark.css";
 @import "extras/font-icons.css";
@@ -49,28 +19,53 @@ Desert Tropics Custom Pools - Styles
 @import "extras/magnific-popup.css";
 @import "extras/responsive.css";
 
-// Overides
+// Initialize
+// @import "desert-tropics-sass/variables.scss";
+// @import "desert-tropics-sass/mixins.scss";
 
-#header.transparent-header.floating-header .container {
-  border-radius: 60px;
+// Core CSS
+// @import "desert-tropics-sass/typography.scss";
+// @import "desert-tropics-sass/helpers.scss";
+// @import "desert-tropics-sass/layouts.scss";
+
+// Content Blocks
+// @import "desert-tropics-sass/topbar.scss";
+// @import "desert-tropics-sass/header.scss";
+// @import "desert-tropics-sass/sliders.scss";
+// @import "desert-tropics-sass/pagetitle.scss";
+// @import "desert-tropics-sass/content.scss";
+// @import "desert-tropics-sass/portfolio.scss";
+// @import "desert-tropics-sass/blog.scss";
+// @import "desert-tropics-sass/events.scss";
+
+// Shortcodes
+// @import "desert-tropics-sass/shortcodes.scss";
+
+// Footer
+// @import "desert-tropics-sass/footer.scss";
+
+// Widgets
+// @import "desert-tropics-sass/widgets.scss";
+
+// Extras
+// @import "desert-tropics-sass/extras.scss";
+
+a {
+  color: #74C99D;
+  text-decoration: none;
 }
 
+a:hover {
+  color: #64e09e;
+}
+
+#header.dark.transparent-header.floating-header .container {
+  border-radius: 50px;
+  background-color: rgba(0,0,0,0.8);
+}
 #logo img {
-  height: 90px;
+  height: 95px;
   padding-top: 10px;
-}
-
-.button:hover {
-  background-color: #8BD1A6;
-}
-
-.slider-caption.slider-caption-center {
-  max-width: 900px;
-
-  p {
-    max-width: 800px;
-    margin: auto;
-  }
 }
 
 #slider-arrow-left {
@@ -83,160 +78,99 @@ Desert Tropics Custom Pools - Styles
   border-bottom-left-radius: 25px;
 }
 
-.home-page .content-wrap .header-stick {
-  margin-top: 0 !important;
-}
-
-#header.about.transparent-header.floating-header {
-  padding: 60px 0;
-  margin: 0 !important;
-}
-
-#header.about {
-  height: 220px;
-}
-
-#header.about.dark.semi-transparent.floating-header {
-  background-color: #497AA0 !important;
-  border-bottom: 2px solid #eee;
-}
-
-@media (max-width: 991px) {
-  #header.about.transparent-header.floating-header {
-    padding: 0 !important;
-    margin: 0 !important;
-  }
-  #header.about {
-    height: 90px;
-  }
-  #header.about.dark.semi-transparent.floating-header {
-    background-color: #000 !important;
-    background-image: none;
-  }
-}
-
-.about-page {
-  margin-top: 0 !important;
-}
-
-#content .content-wrap {
-  padding: 50px 0 !important;
-}
-
-#page-title {
-    position: relative;
-    padding: 50px 0 0;
-    background-color: #fff;
-    border: none;
-
-    h1 {
-      color: #012737;
-    }
-}
-
-#content.about-page, #content.home-page {
-  .heading-block {
-    margin: 50px 0;
-  }
-  .promo-full {
-    border-radius: 0 !important;
-  }
-  .promo.promo-dark {
-    background-color: #08161B;
-  }
-  .footer-stick {
-    margin-bottom: 0px !important;
-  }
-}
-
-#content.home-page {
-  .content-wrap {
-  padding: 0 0 50px !important;
-  }
-  .promo.promo-dark {
-    margin-bottom: 50px;
-  }
-}
-
-#content.about-page {
-  .content-wrap {
-  padding: 50px 0 0 !important;
-  }
-}
-
-.testi-image, .testi-image a, .testi-image img.home, .testi-image i {
-  width: 85px !important;
-  height: 85px !important;
-}
-
 #gotoTop {
   border-radius:22px;
 }
 
 i.acc-closed.icon-ok-circle {
-  color: #168ACA;
+  color: #74C99D;
 }
 i.acc-open.icon-remove-circle {
-  color: #FBAA1E;
+  color: #333;
 }
 
-#ocean {z-index: 100;}
+#header.pagehead.transparent-header.floating-header {
+  margin-top: 0;
+  padding: 60px 0 154px;
+}
+
+#page-title.page-title-nobg {
+  border-bottom: none;
+}
+
+#page-title {
+  padding-bottom: 0;
+}
+
+.about-page .content-wrap .header-stick {
+  margin-top: 0 !important;
+}
+
+.about-page .promo.promo-dark.promo-full.promo-uppercase.header-stick {
+  margin-bottom: 0 !important;
+}
+
+#copyrights .tright a:last-child {
+  margin-right: 10px;
+}
+
+#pool {z-index: 100;}
 .wave {
-  bottom: -70px;
-  background: #7ecef4;
-  opacity: 0.5;
-  display: inline-block;
-  height: 35%;
-  width: 10px;
-  position: absolute;
-  z-index: 1 !important;
-  animation-name: dostuff;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  transition-timing-function: ease-in-out;
+bottom: -70px;
+background: #7ecef4;
+opacity: 0.5;
+display: inline-block;
+height: 35%;
+width: 10px;
+position: absolute;
+z-index: 1 !important;
+animation-name: dostuff;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+transition-timing-function: ease-in-out;
 }
 .wave_middle {
-  bottom: -50px;
-  background: #0068b7;
-  opacity: 0.3;
-  display: inline-block;
-  height: 27%;
-  width: 10px;
-  position: absolute;
-  z-index: 1 !important;
-  animation-name: dostuff_mid;
-  animation-duration: 4s;
-  animation-iteration-count: infinite;
-  transition-timing-function: ease-in-out;
+bottom: -50px;
+background: #0068b7;
+opacity: 0.3;
+display: inline-block;
+height: 27%;
+width: 10px;
+position: absolute;
+z-index: 1 !important;
+animation-name: dostuff_mid;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+transition-timing-function: ease-in-out;
 }
 .wave_bottom {
-  bottom: -50px;
-  background: #002e73;
-  opacity: 0.8;
-  display: inline-block;
-  height: 17%;
-  width: 10px;
-  position: absolute;
-  z-index: 1 !important;
-  animation-name: dostuff_bot;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  transition-timing-function: ease-in-out;
+bottom: -50px;
+background: #002e73;
+opacity: 0.8;
+display: inline-block;
+height: 17%;
+width: 10px;
+position: absolute;
+z-index: 1 !important;
+animation-name: dostuff_bot;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+transition-timing-function: ease-in-out;
 }
 
 /* amplitude animation*/
 @keyframes dostuff {
-  0% {height: 35%;}
-  50% {height: 20%;}
-  100% {height: 35%;}
+0% {height: 35%;}
+50% {height: 20%;}
+100% {height: 35%;}
 }
 @keyframes dostuff_mid {
-  0% {height: 27%;}
-  50% {height: 40%;}
-  100% {height: 27%;}
+0% {height: 27%;}
+50% {height: 40%;}
+100% {height: 27%;}
 }
 @keyframes dostuff_bot {
-  0% {height: 17%;}
-  50% {height: 23%;}
-  100% {height: 17%;}
+0% {height: 17%;}
+50% {height: 23%;}
+100% {height: 17%;}
 }

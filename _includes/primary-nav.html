@@ -1,17 +1,24 @@
 <nav id="primary-menu">
   <ul>
-    <li class="current"><a href="/"><div>Home</div></a></li>
-    <li><a href="/about"><div>About Us</div></a></li>
-    <li><a href="#"><div>Gallery</div></a></li>
-    <li><a href="shop.html"><div>Customer Pages</div></a>
-      <ul>
-        <li><a href="shop.html"><div>Products/Equipment/Options</div></a></li>
-        <li><a href="shop-3.html"><div>Financing</div></a></li>
-        <li><a href="shop-2.html"><div>Pool care</div></a></li>
-        <li><a href="shop-1.html"><div>Equipment manuals</div></a></li>
-      </ul>
-    </li>
-    <li><a href="#"><div>Blog</div></a></li>
-    <li><a href="/contact"><div>Contact Us</div></a></li>
+    {% for nav in site.data.nav %}
+      {% if nav.subcategories != null %}
+        <li>
+          <a href="{{ site.baseurl }}{{ nav.baseurl }}">{{ nav.title }}</a>
+          <ul>
+          {% for subcategory in nav.subcategories %}
+            <li><a href="{{ site.baseurl }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+          {% endfor %}
+          </ul>
+        </li>
+      {% elsif nav.title == page.active %}
+         <li class="current">
+           <a href="{{ nav.baseurl }}">{{ nav.title }}</a>
+         </li>
+      {% else %}
+        <li>
+          <a href="{{ site.baseurl }}{{ nav.href }}">{{ nav.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
   </ul>
 </nav>

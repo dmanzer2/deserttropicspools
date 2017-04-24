@@ -1,5 +1,7 @@
 ---
-title: Contact
+title: Contact | Desert Tropics Custom Pools
+subtitle: Call us anytime...We know you by name
+active: Contact Us
 permalink: /contact/
 layout: page-template
 comments: false
@@ -8,18 +10,15 @@ img_position: center -520px
 description: This is the contact page and its description.
 ---
 
-<!-- Contact Form & Map Overlay Section
-============================================= -->
 <section id="map-overlay">
   <div class="container clearfix">
     <div id="contact-form-overlay" class="clearfix">
       <div class="fancy-title title-dotted-border">
-        <h3>Send us an Email</h3>
+        <h1>{{ page.active }}</h1>
       </div>
       <div class="contact-widget">
         <div class="contact-form-result"></div>
-        <!-- Contact Form
-        ============================================= -->
+
         <form class="nobottommargin" id="template-contactform" name="template-contactform" action="" method="post">
           <div class="col_half">
             <label for="template-contactform-name">Name <small>*</small></label>
@@ -63,9 +62,9 @@ description: This is the contact page and its description.
           </div>
         </form>
       </div>
+
       <div class="line"></div>
-      <!-- Contact Info
-      ============================================= -->
+
       <div class="col_one_third nobottommargin">
         <address>
           <strong>Desert Tropics Headquarters:</strong><br>
@@ -80,9 +79,9 @@ description: This is the contact page and its description.
       <div class="col_two_third col_last nobottommargin">
         <a href="#"><img src="{{ site.baseurl }}/assets/images/desert-tropics-images/desert-tropics-contact-logo.png" class="img-responsive" /></a>
       </div>
-    </div><!-- Contact Form Overlay End -->
+    </div>
   </div>
-  <!-- Google Map
-  ============================================= -->
+
   <section id="google-map" class="gmap"></section>
-</section><!-- Contact Form & Map Overlay Section End -->
+
+</section>

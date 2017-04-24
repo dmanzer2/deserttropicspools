@@ -1,10 +1,5 @@
-<!-- External JavaScripts
-============================================= -->
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/plugins.js"></script>
-
-<!-- Footer Scripts
-============================================= -->
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/functions.js"></script>
 
 <script type="text/javascript" src="//maps.google.com/maps/api/js"></script>
@@ -30,7 +25,7 @@
 <script>
 $(document).ready(function(){
 // make some waves.
-var ocean = document.getElementById("ocean"),
+var ocean = document.getElementById("pool"),
   waveWidth = 10,
   waveCount = Math.floor(window.innerWidth/waveWidth),
   docFrag = document.createDocumentFragment();
@@ -53,13 +48,7 @@ var ocean = document.getElementById("ocean"),
      docFrag.appendChild(wave_bottom);
      wave_bottom.style.left = i * waveWidth + "px";
      wave_bottom.style.webkitAnimationDelay = (i/97) + "s";
-
-     var wave_light = document.createElement("div");
-     wave_light.className += " wave_light";
-     docFrag.appendChild(wave_light);
-     wave_light.style.left = i * waveWidth + "px";
-     wave_light.style.webkitAnimationDelay = 0 + "s";
   }
-  ocean.appendChild(docFrag);
+  pool.appendChild(docFrag);
 });
 </script>
