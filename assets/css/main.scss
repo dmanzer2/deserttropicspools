@@ -61,7 +61,7 @@ a:hover {
 
 #header.dark.transparent-header.floating-header .container {
   border-radius: 50px;
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(1, 21, 23, 0.9);
 }
 #logo img {
   height: 95px;
@@ -86,12 +86,49 @@ i.acc-closed.icon-ok-circle {
   color: #74C99D;
 }
 i.acc-open.icon-remove-circle {
-  color: #333;
+  color: #08161B;
+}
+
+.portfolio-filter {
+  border-color: rgba(1, 21, 23, 0.9);
+}
+.portfolio-filter li a {
+  border-left: 1px solid rgba(1, 21, 23, 0.9);
+  color: #ddd;
 }
 
 #header.pagehead.transparent-header.floating-header {
   margin-top: 0;
   padding: 60px 0 154px;
+  box-shadow: 0 0 20px 0 rgba(0,0,0,0.5);
+  border-bottom: 1px solid #273B43;
+}
+
+.home-page .content-wrap .header-stick {
+  margin-top: 0 !important;
+  margin-bottom: 20px !important;
+}
+
+.home-page .content-wrap {
+  padding: 0;
+  background-color: #273B43;
+}
+
+h1, h2, h3, #page-title h1  {
+  color: #74C99D;
+}
+
+#page-title span {
+  color: #ccc;
+}
+
+#content p {
+  color: #ddd;
+}
+
+.fancy-title h1, .fancy-title h2, .fancy-title h3, .fancy-title h4, .fancy-title h5, .fancy-title h6 {
+  background-color: #273B43 !important;
+  color: #74C99D;
 }
 
 #page-title.page-title-nobg {
@@ -114,6 +151,43 @@ i.acc-open.icon-remove-circle {
   top: 72%;
 }
 
+.accordion.accordion-bg .acctitle, .accordion.accordion-bg .acctitlec {
+  background-color: rgba(238, 238, 238, 0.1);
+  color: #eee;
+}
+
+.acc_content {
+  color: #eee;
+}
+
+.content-wrap .footer-stick {
+  background-color: #273B43;
+}
+
+#content, #page-title.page-title-nobg {
+  background-color: #273B43 !important;
+}
+
+#contact-form-overlay {
+  background-color: #273B43 !important;
+}
+
+#contact-form-overlay label, #map-overlay {
+  color: #eee!important;
+}
+
+.sm-form-control:focus {
+  border-color: #74C99D;
+}
+
+.fancy-title.title-border:before {
+    border-top: 1px solid #08161B;
+}
+
+.button:hover {
+  background-color: #273B43 !important;
+}
+
 #copyrights .tright a:last-child {
   margin-right: 10px;
 }
@@ -121,7 +195,7 @@ i.acc-open.icon-remove-circle {
 #pool {z-index: 100;}
 .wave {
 bottom: -70px;
-background: #7ecef4;
+background: #7de6f2;
 opacity: 0.5;
 display: inline-block;
 height: 35%;
@@ -135,7 +209,7 @@ transition-timing-function: ease-in-out;
 }
 .wave_middle {
 bottom: -50px;
-background: #0068b7;
+background: #0096b5;
 opacity: 0.3;
 display: inline-block;
 height: 27%;
@@ -149,7 +223,7 @@ transition-timing-function: ease-in-out;
 }
 .wave_bottom {
 bottom: -50px;
-background: #002e73;
+background: #005b72;
 opacity: 0.8;
 display: inline-block;
 height: 17%;
