@@ -44,9 +44,9 @@
 	letter-spacing: 1px;
 }
 
-.entry-title h2 a { color: #333; }
+.entry-title h2 a { color: #74C99D !important; }
 
-.entry-title h2 a:hover { color: #74C99D; }
+.entry-title h2 a:hover { color: #64e09e !important; }
 
 .entry-meta {
 	margin: 10px -10px -15px 0;
