@@ -3388,7 +3388,7 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 
 #page-title.page-title-nobg .breadcrumb > .active { color: #ddd; }
 
-#page-title.page-title-nobg .breadcrumb a { color: #08161b; }
+#page-title.page-title-nobg .breadcrumb a { color: #000; }
 
 #page-title.page-title-nobg .breadcrumb a:hover { color: #74C99D; }
 
