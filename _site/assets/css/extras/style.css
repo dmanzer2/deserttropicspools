@@ -2044,7 +2044,7 @@ body.top-search-open #top-account { opacity: 0; }
 	left: 0;
 	width: 100%;
 	background-color: #FFF;
-	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
 #header.semi-transparent.sticky-header #header-wrap { background-color: rgba(255,255,255,0.8) }
@@ -10926,7 +10926,7 @@ body:not(.device-touch) .text-overlay {
 	background-color: #ffffff;
 	background-image: none;
 	border: 2px solid #DDD;
-	border-radius: 0 !important;
+	border-radius: 6px;
 	-webkit-transition: border-color ease-in-out .15s;
 	-o-transition: border-color ease-in-out .15s;
 	transition: border-color ease-in-out .15s;
