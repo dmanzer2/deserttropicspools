@@ -132,8 +132,33 @@ description: This is the contact page and its description.
 
               <div id="cid_12">
                 <section data-wrapper-react="true">
-                  <script src='https://www.google.com/recaptcha/api.js'></script>
-                  <div class="g-recaptcha" data-sitekey="6LeNiyAUAAAAACaakTP5HNwga9dHhImxDtRI_lw3"></div>
+                  <script type="text/javascript" src="//www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+                  <div id="recaptcha_input_12" data-component="recaptcha"> </div>
+                  <script type="text/javascript">
+                    var rc_script_tag = document.createElement('script'),
+                      rc_init_func = function() {
+                        Recaptcha.create("6LeNiyAUAAAAACaakTP5HNwga9dHhImxDtRI_lw3", "recaptcha_input_12", {
+                            theme: "clean",
+                            callback: function() {
+                                $("recaptcha_response_field").addClassName("validate[required]");
+                                JotForm.validator()
+                            }
+                        });
+                      }
+                      rc_script_tag.src = "//www.google.com/recaptcha/api/js/recaptcha_ajax.js";
+                      rc_script_tag.type = 'text/javascript';
+                      rc_script_tag.onload = function() {
+                          rc_init_func.call();
+                      };
+                      rc_script_tag.onreadystatechange = function() {
+                          if (rc_script_tag.readyState == 'loaded' || rc_script_tag.readyState == 'complete') {
+                              rc_init_func.call();
+                          }
+                      };
+                      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(rc_script_tag);
+                    </script>
+
                 </section>
               </div>
 
