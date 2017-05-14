@@ -32,9 +32,9 @@ avatar: 'http://www.deserttropicspools.com/assets/images/desert-tropics-images/d
 profile:
   name: Desert Tropics Custom Pools
   email: info@deserttropics.com
-  facebook: deserttropicspools
-  twitter: your-twitter-id
-  linkedin: desert-tropics-custom-pools
+  facebook: //www.facebook.com/deserttropicspools/
+  googleplus: //plus.google.com/111814675770550054157
+  linkedin: //www.linkedin.com/company/desert-tropics-custom-pools
 pretty-url: deserttropicspools.com
 disqus: Your-Disqus-Id
 google_analytics: Your-GA-Id
@@ -60,4 +60,4 @@ styles:
 development:
   asset_url: "http://localhost:3000/assets"
   app_url: "http://localhost:3000/"
-timezone:  America/Arizona  
+timezone:  America/Arizona
