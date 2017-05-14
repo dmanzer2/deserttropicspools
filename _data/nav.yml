@@ -5,15 +5,16 @@
 - title: Gallery
   href: /gallery/
 - title: Customer Pages
+  href: /customer-pages/
   subcategories:
-    - subtitle: Products Equipment Options
-      subhref: /products-equipment-options/
+    - subtitle: Product Equipment Options
+      subhref: /customer-pages/product-equipment-options/
     - subtitle: Financing
-      subhref: /financing/
+      subhref: /customer-pages/financing/
     - subtitle: Pool care
-      subhref: /pool-care/
+      subhref: /customer-pages/pool-care/
     - subtitle: Equipment manuals
-      subhref: /equipment-manuals/
+      subhref: /customer-pages/equipment-manuals/
 - title: Blog
   href: /blog/
 - title: Contact Us
