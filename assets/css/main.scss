@@ -240,11 +240,9 @@ label small {
 }
 
 @media only screen and (min-width: 991px) and (max-width: 1190px) {
-
   .adjust-parrot {
     bottom:35px !important;
   }
-
   .about-parallax-feature {
     margin-top:25px !important;
   }
@@ -259,6 +257,21 @@ label small {
   }
 }
 
+@media only screen and (min-width: 414px) and (max-width: 990px) {
+  .accordion.accordion-bg .acctitle {
+    line-height: 43px;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  .about-parallax-feature {
+    margin-top: 80px !important;
+  }
+  .accordion.accordion-bg .acctitle {
+    line-height: 23px;
+  }
+}
+
 .about-parallax-feature {
   background-image: url('{{ site.baseurl }}/assets/images/slider/swiper/3.jpg');
   padding: 100px 0;
@@ -266,6 +279,14 @@ label small {
   -webkit-box-shadow: inset 0px 0px 30px -3px rgba(0,0,0,0.75);
   -moz-box-shadow: inset 0px 0px 30px -3px rgba(0,0,0,0.75);
   box-shadow: inset 0px 0px 30px -3px rgba(0,0,0,0.75);
+}
+
+.about-parallax-feature h6 {
+  color:#fff;
+  font-size:20px;
+  line-height:40px;
+  padding:0 15%;
+  text-shadow: 1px 1px 10px rgba(0,0,0,0.85) !important;
 }
 
 
