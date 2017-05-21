@@ -59,4 +59,3 @@ styles:
 development:
   asset_url: "http://localhost:3000/assets"
   app_url: "http://localhost:3000/"
-timezone:  America/Arizona
