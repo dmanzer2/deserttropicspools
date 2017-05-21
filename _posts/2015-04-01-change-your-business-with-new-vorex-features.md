@@ -3,7 +3,7 @@ title: Change Your Business with New Vorex Features
 date: 2015-04-01T11:20:54+00:00
 author: David
 layout: posts
-permalink: /blog/:title/
+permalink: /blog/:title
 blog_image_path: /assets/images/blogs-resources/guy-laptop.jpg
 nav_background_image: /assets/images/slider/swiper/2.jpg
 img_position: center -620px

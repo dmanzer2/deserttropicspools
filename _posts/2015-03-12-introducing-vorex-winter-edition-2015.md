@@ -3,7 +3,7 @@ title: Introducing Vorex Winter Edition 2015
 date: 2015-03-12T07:00:43+00:00
 author: David
 layout: posts
-permalink: /blog/:title/
+permalink: /blog/:title
 blog_image_path: /assets/images/blogs-resources/Dollarphotoclub_71509271.jpg
 nav_background_image: /assets/images/slider/swiper/2.jpg
 img_position: center -620px

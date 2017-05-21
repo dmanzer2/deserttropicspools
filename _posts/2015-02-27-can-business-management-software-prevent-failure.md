@@ -3,7 +3,7 @@ title: Can Business Management Software Prevent Failure?
 date: 2015-02-27 19:42:00
 author: David
 layout: posts
-permalink: /blog/:title/
+permalink: /blog/:title
 blog_image_path: /assets/images/blogs-resources/Dollarphotoclub_76305793.jpg
 nav_background_image: /assets/images/slider/swiper/2.jpg
 img_position: center -620px

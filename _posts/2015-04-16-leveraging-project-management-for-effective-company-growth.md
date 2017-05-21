@@ -3,7 +3,7 @@ title: Leveraging Project Management for Effective Company Growth
 date: 2015-04-16 03:58:00
 author: David
 layout: posts
-permalink: /blog/:title/
+permalink: /blog/:title
 blog_image_path: /assets/images/blogs-resources/growth-v-maintenance.jpg
 nav_background_image: /assets/images/slider/swiper/2.jpg
 img_position: center -620px

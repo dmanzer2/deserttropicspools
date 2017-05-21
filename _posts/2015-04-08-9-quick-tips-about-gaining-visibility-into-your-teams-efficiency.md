@@ -3,7 +3,7 @@ title: "9 Quick Tips About Gaining Visibility Into Your Team's Efficiency"
 date: 2015-04-08 03:05:00
 author: David
 layout: posts
-permalink: /blog/:title/
+permalink: /blog/:title
 blog_image_path: /assets/images/blogs-resources/Visibility-Team-Efficiency.jpg
 nav_background_image: /assets/images/slider/swiper/2.jpg
 img_position: center -620px

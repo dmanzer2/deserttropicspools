@@ -3,7 +3,7 @@ title: 7 Common Misconceptions About Project Management
 date: 2015-04-06 03:48:00
 author: David
 layout: posts
-permalink: /blog/:title/
+permalink: /blog/:title
 blog_image_path: /assets/images/blogs-resources/Dollarphotoclub_80200268.jpg
 nav_background_image: /assets/images/slider/swiper/2.jpg
 img_position: center -620px
