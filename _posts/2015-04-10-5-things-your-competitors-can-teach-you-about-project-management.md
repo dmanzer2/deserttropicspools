@@ -3,7 +3,7 @@ title: 5 Things Your Competitors Can Teach You About Project Management
 date: 2015-04-10 03:58:00
 author: David
 layout: posts
-permalink: /blog/:title
+permalink: /blog/:title/
 blog_image_path: /assets/images/blogs-resources/Competitors-Teach.jpg
 nav_background_image: /assets/images/slider/swiper/2.jpg
 img_position: center -620px

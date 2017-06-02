@@ -3,7 +3,7 @@ title: 5 Time-saving Tools for Agency Owners
 date: 2015-04-21 03:43:00
 author: David
 layout: posts
-permalink: /blog/:title
+permalink: /blog/:title/
 blog_image_path: /assets/images/blogs-resources/Time-Saving-Tools.jpg
 nav_background_image: /assets/images/slider/swiper/2.jpg
 img_position: center -620px

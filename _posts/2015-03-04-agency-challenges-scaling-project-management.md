@@ -3,7 +3,7 @@ title: 'A Growing Agency&#8217;s Biggest Challenge: Scaling Project Management'
 date: 2015-03-04T14:44:13+00:00
 author: David
 layout: posts
-permalink: /blog/:title
+permalink: /blog/:title/
 blog_image_path: /assets/images/blogs-resources/project-management-scale.jpg
 nav_background_image: /assets/images/slider/swiper/2.jpg
 img_position: center -620px
