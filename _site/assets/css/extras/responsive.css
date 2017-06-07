@@ -28,8 +28,12 @@
 	#wrapper { width: 1000px; }
 
 	#header.transparent-header.floating-header .container {
-		width: 1030px;
+		width: 988px;
 		padding: 0 30px;
+	}
+
+	#logo img {
+	  height: 90px;
 	}
 
 	#header.transparent-header.floating-header.sticky-header .container {
