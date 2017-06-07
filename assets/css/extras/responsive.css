@@ -33,7 +33,7 @@
 	}
 
 	#logo img {
-	  height: 90px;
+	  height: 90px !important;
 	}
 
 	#header.transparent-header.floating-header.sticky-header .container {
