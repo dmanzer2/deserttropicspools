@@ -1,0 +1,21 @@
+- title: Home
+  href: /
+- title: About Us
+  href: /about/
+- title: Gallery
+  href: /gallery/
+- title: Customer Pages
+  href: /customer-pages/
+  subcategories:
+    - subtitle: Product Equipment Options
+      subhref: /customer-pages/product-equipment-options/
+    - subtitle: Financing
+      subhref: /customer-pages/financing/
+    - subtitle: Pool care
+      subhref: /customer-pages/pool-care/
+    - subtitle: Equipment manuals
+      subhref: /customer-pages/equipment-manuals/
+- title: Blog
+  href: /blog/
+- title: Contact Us
+  href: /contact/

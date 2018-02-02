@@ -1,0 +1,321 @@
+---
+---
+@charset "utf-8";
+/*-----------------------------------------------------------------------------------
+
+Desert Tropics Custom Pools - Styles
+
+-----------------------------------------------------------------------------------*/
+
+// Bootstrap
+@import "bootstrap.scss";
+
+// Additional Css
+@import "extras/style.css";
+@import "extras/swiper.css";
+@import "extras/dark.css";
+@import "extras/font-icons.css";
+@import "extras/animate.css";
+@import "extras/magnific-popup.css";
+@import "extras/responsive.css";
+
+a {
+  color: #74C99D;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #64e09e;
+}
+
+#header.dark.transparent-header.floating-header .container {
+  border-radius: 50px;
+  background-color: rgba(1, 21, 23, 0.9);
+}
+#logo img {
+  height: 95px;
+  padding-top: 10px;
+}
+
+#slider-arrow-left {
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+#slider-arrow-right {
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+#gotoTop {
+  border-radius:22px;
+}
+
+i.acc-closed.icon-ok-circle {
+  color: #74C99D;
+}
+i.acc-open.icon-remove-circle {
+  color: #08161B;
+}
+
+.portfolio-filter {
+  border-color: rgba(1, 21, 23, 0.9);
+}
+.portfolio-filter li a {
+  border-left: 1px solid rgba(1, 21, 23, 0.9);
+  color: #ddd;
+}
+
+#header.pagehead.transparent-header.floating-header {
+  margin-top: 0;
+  padding: 60px 0 154px;
+  box-shadow: 0 0 20px 0 rgba(0,0,0,0.5);
+  border-bottom: 1px solid #273B43;
+}
+
+.home-page .content-wrap .header-stick {
+  margin-top: 0 !important;
+  margin-bottom: 20px !important;
+}
+
+.home-page .content-wrap {
+  padding: 0;
+  background-color: #273B43;
+}
+
+h1, h2, h3, #page-title h1  {
+  color: #74C99D;
+}
+
+#page-title span {
+  color: #aaa;
+}
+
+#content p {
+  color: #ddd;
+}
+
+.fancy-title h1, .fancy-title h2, .fancy-title h3, .fancy-title h4, .fancy-title h5, .fancy-title h6 {
+  background-color: #273B43 !important;
+  color: #74C99D;
+}
+
+#page-title.page-title-nobg {
+  border-bottom: none;
+}
+
+#page-title {
+  padding-bottom: 0;
+}
+
+.about-page .content-wrap .header-stick {
+  margin-top: 0 !important;
+}
+
+.about-page .promo.promo-dark.promo-full.promo-uppercase.header-stick {
+  margin-bottom: 0 !important;
+}
+
+.about-page .fancy-title.title-border:before {
+  top: 72%;
+}
+
+.accordion.accordion-bg .acctitle, .accordion.accordion-bg .acctitlec {
+  background-color: rgba(238, 238, 238, 0.1);
+  color: #eee;
+}
+
+.acc_content {
+  color: #eee;
+}
+
+.content-wrap .footer-stick {
+  background-color: #3A4C53;
+}
+
+#content, #page-title.page-title-nobg {
+  background-color: #273B43 !important;
+}
+
+#contact-form-overlay {
+  background-color: #273B43 !important;
+}
+
+#contact-form-overlay label, #map-overlay {
+  color: #eee!important;
+}
+
+.sm-form-control:focus {
+  border-color: #74C99D;
+}
+
+.fancy-title.title-border:before {
+    border-top: 1px solid #08161B;
+}
+
+.button:hover {
+  background-color: #273B43 !important;
+}
+
+#copyrights .tright a:last-child {
+  margin-right: 10px;
+}
+
+.contact-radios {
+  line-height: 38px;
+}
+
+@media only screen and (max-width: 991px) {
+
+  #header.pagehead.transparent-header.floating-header {
+    padding-bottom: 64px;
+  }
+
+}
+
+label.unbold {
+ font-size: 11px;
+ font-weight: 400;
+}
+
+.recaptchatable {
+  background: #fff;
+}
+
+label small {
+  color:red;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 990px) {
+  #recaptcha_response_field, #recaptcha_challenge_image, #recaptcha_image {
+    width:100%!important;
+    max-width: 100%;
+  }
+  #recaptcha_reload {
+    min-width: 25px !important;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  form button {
+    width:100%!important;
+  }
+}
+
+.adjust-parrot {
+  position: absolute;
+  bottom: 100px;
+  right: 20px;
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1190px) {
+  .adjust-parrot {
+    bottom:35px !important;
+  }
+  .about-parallax-feature {
+    margin-top:25px !important;
+  }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 990px) {
+  .adjust-parrot {
+    bottom:-23px !important;
+  }
+  .about-parallax-feature {
+    margin-top:25px !important;
+  }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 990px) {
+  .accordion.accordion-bg .acctitle {
+    line-height: 43px;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  .about-parallax-feature {
+    margin-top: 80px !important;
+  }
+  .accordion.accordion-bg .acctitle {
+    line-height: 23px;
+  }
+}
+
+.about-parallax-feature {
+  background-image: url('{{ site.baseurl }}/assets/images/slider/swiper/3.jpg');
+  padding: 100px 0;
+  margin-top:0;
+  -webkit-box-shadow: inset 0px 0px 30px -3px rgba(0,0,0,0.75);
+  -moz-box-shadow: inset 0px 0px 30px -3px rgba(0,0,0,0.75);
+  box-shadow: inset 0px 0px 30px -3px rgba(0,0,0,0.75);
+}
+
+.about-parallax-feature h6 {
+  color:#fff;
+  font-size:20px;
+  line-height:40px;
+  padding:0 15%;
+  text-shadow: 1px 1px 10px rgba(0,0,0,0.85) !important;
+}
+
+
+#pool {z-index: 100;}
+.wave {
+bottom: -70px;
+background: #7de6f2;
+opacity: 0.5;
+display: inline-block;
+height: 35%;
+width: 10px;
+position: absolute;
+z-index: 1 !important;
+animation-name: dostuff;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+transition-timing-function: ease-in-out;
+}
+.wave_middle {
+bottom: -50px;
+background: #0096b5;
+opacity: 0.3;
+display: inline-block;
+height: 27%;
+width: 10px;
+position: absolute;
+z-index: 1 !important;
+animation-name: dostuff_mid;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+transition-timing-function: ease-in-out;
+}
+.wave_bottom {
+bottom: -50px;
+background: #005b72;
+opacity: 0.8;
+display: inline-block;
+height: 17%;
+width: 10px;
+position: absolute;
+z-index: 1 !important;
+animation-name: dostuff_bot;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+transition-timing-function: ease-in-out;
+}
+
+/* amplitude animation*/
+@keyframes dostuff {
+0% {height: 35%;}
+50% {height: 20%;}
+100% {height: 35%;}
+}
+@keyframes dostuff_mid {
+0% {height: 27%;}
+50% {height: 40%;}
+100% {height: 27%;}
+}
+@keyframes dostuff_bot {
+0% {height: 17%;}
+50% {height: 23%;}
+100% {height: 17%;}
+}
