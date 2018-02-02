@@ -15,7 +15,7 @@
 	.promo > span,
 	.promo > .container > span { font-size: 15px; }
 
-	.promo-uppercase h3 { font-size: 16px; }
+	.promo-uppercase h3 { font-size: 19px; }
 
 	.promo-uppercase > span,
 	.promo-uppercase > .container > span { font-size: 14px; }
@@ -28,12 +28,8 @@
 	#wrapper { width: 1000px; }
 
 	#header.transparent-header.floating-header .container {
-		width: 988px;
+		width: 1030px;
 		padding: 0 30px;
-	}
-
-	#logo img {
-	  height: 90px !important;
 	}
 
 	#header.transparent-header.floating-header.sticky-header .container {
