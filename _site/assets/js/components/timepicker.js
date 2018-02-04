@@ -1879,7 +1879,7 @@
             locale = undefined;
         }
         // object construction must be done this way.
-        // https://github.com/moment/moment/issues/1423
+        // //github.com/moment/moment/issues/1423
         c = {};
         c._isAMomentObject = true;
         c._i = input;
@@ -1898,7 +1898,7 @@
         'moment construction falls back to js Date. This is ' +
         'discouraged and will be removed in upcoming major ' +
         'release. Please refer to ' +
-        'https://github.com/moment/moment/issues/1407 for more info.',
+        '//github.com/moment/moment/issues/1407 for more info.',
         function (config) {
             config._d = new Date(config._i + (config._useUTC ? ' UTC' : ''));
         }
@@ -1947,7 +1947,7 @@
             locale = undefined;
         }
         // object construction must be done this way.
-        // https://github.com/moment/moment/issues/1423
+        // //github.com/moment/moment/issues/1423
         c = {};
         c._isAMomentObject = true;
         c._useUTC = true;
@@ -2448,7 +2448,7 @@
         },
 
         min: deprecate(
-                 'moment().min is deprecated, use moment.min instead. https://github.com/moment/moment/issues/1548',
+                 'moment().min is deprecated, use moment.min instead. //github.com/moment/moment/issues/1548',
                  function (other) {
                      other = moment.apply(null, arguments);
                      return other < this ? this : other;
@@ -2456,7 +2456,7 @@
          ),
 
         max: deprecate(
-                'moment().max is deprecated, use moment.max instead. https://github.com/moment/moment/issues/1548',
+                'moment().max is deprecated, use moment.max instead. //github.com/moment/moment/issues/1548',
                 function (other) {
                     other = moment.apply(null, arguments);
                     return other > this ? this : other;
@@ -2465,7 +2465,7 @@
 
         zone : deprecate(
                 'moment().zone is deprecated, use moment().utcOffset instead. ' +
-                'https://github.com/moment/moment/issues/1779',
+                '//github.com/moment/moment/issues/1779',
                 function (input, keepLocalTime) {
                     if (input != null) {
                         if (typeof input !== 'string') {
@@ -2675,7 +2675,7 @@
 
         _dateUtcOffset : function () {
             // On Firefox.24 Date#getTimezoneOffset returns a floating point.
-            // https://github.com/moment/moment/pull/1871
+            // //github.com/moment/moment/pull/1871
             return -Math.round(this._d.getTimezoneOffset() / 15) * 15;
         }
 
@@ -2910,7 +2910,7 @@
         ),
 
         toISOString : function () {
-            // inspired by https://github.com/dordille/moment-isoduration/blob/master/moment.isoduration.js
+            // inspired by //github.com/dordille/moment-isoduration/blob/master/moment.isoduration.js
             var years = Math.abs(this.years()),
                 months = Math.abs(this.months()),
                 days = Math.abs(this.days()),
@@ -3003,7 +3003,7 @@
 
     // moment.js locale configuration
 // locale : afrikaans (af)
-// author : Werner Mollentze : https://github.com/wernerm
+// author : Werner Mollentze : //github.com/wernerm
 
 (function (factory) {
     factory(moment);
@@ -3058,7 +3058,7 @@
         },
         ordinalParse: /\d{1,2}(ste|de)/,
         ordinal : function (number) {
-            return number + ((number === 1 || number === 8 || number >= 20) ? 'ste' : 'de'); // Thanks to Joris RÃ¶ling : https://github.com/jjupiter
+            return number + ((number === 1 || number === 8 || number >= 20) ? 'ste' : 'de'); // Thanks to Joris RÃ¶ling : //github.com/jjupiter
         },
         week : {
             dow : 1, // Maandag is die eerste dag van die week.
@@ -3068,8 +3068,8 @@
 }));
 // moment.js locale configuration
 // locale : Moroccan Arabic (ar-ma)
-// author : ElFadili Yassine : https://github.com/ElFadiliY
-// author : Abdel Said : https://github.com/abdelsaid
+// author : ElFadili Yassine : //github.com/ElFadiliY
+// author : Abdel Said : //github.com/abdelsaid
 
 (function (factory) {
     factory(moment);
@@ -3119,7 +3119,7 @@
 }));
 // moment.js locale configuration
 // locale : Arabic Saudi Arabia (ar-sa)
-// author : Suhail Alkowaileet : https://github.com/xsoh
+// author : Suhail Alkowaileet : //github.com/xsoh
 
 (function (factory) {
     factory(moment);
@@ -3263,9 +3263,9 @@
 }));
 // moment.js locale configuration
 // Locale: Arabic (ar)
-// Author: Abdel Said: https://github.com/abdelsaid
+// Author: Abdel Said: //github.com/abdelsaid
 // Changes in months, weekdays: Ahmed Elkhatib
-// Native plural forms: forabi https://github.com/forabi
+// Native plural forms: forabi //github.com/forabi
 
 (function (factory) {
     factory(moment);
@@ -3391,7 +3391,7 @@
 }));
 // moment.js locale configuration
 // locale : azerbaijani (az)
-// author : topchiyev : https://github.com/topchiyev
+// author : topchiyev : //github.com/topchiyev
 
 (function (factory) {
     factory(moment);
@@ -3492,9 +3492,9 @@
 }));
 // moment.js locale configuration
 // locale : belarusian (be)
-// author : Dmitry Demidov : https://github.com/demidov91
+// author : Dmitry Demidov : //github.com/demidov91
 // author: Praleska: http://praleska.pro/
-// Author : Menelion ElensÃºle : https://github.com/Oire
+// Author : Menelion ElensÃºle : //github.com/Oire
 
 (function (factory) {
     factory(moment);
@@ -3640,7 +3640,7 @@
 }));
 // moment.js locale configuration
 // locale : bulgarian (bg)
-// author : Krasen Borisov : https://github.com/kraz
+// author : Krasen Borisov : //github.com/kraz
 
 (function (factory) {
     factory(moment);
@@ -3722,7 +3722,7 @@
 }));
 // moment.js locale configuration
 // locale : Bengali (bn)
-// author : Kaushik Gandhi : https://github.com/kaushikgandhi
+// author : Kaushik Gandhi : //github.com/kaushikgandhi
 
 (function (factory) {
     factory(moment);
@@ -3827,7 +3827,7 @@
 }));
 // moment.js locale configuration
 // locale : tibetan (bo)
-// author : Thupten N. Chakrishar : https://github.com/vajradog
+// author : Thupten N. Chakrishar : //github.com/vajradog
 
 (function (factory) {
     factory(moment);
@@ -3929,7 +3929,7 @@
 }));
 // moment.js locale configuration
 // locale : breton (br)
-// author : Jean-Baptiste Le Duigou : https://github.com/jbleduigou
+// author : Jean-Baptiste Le Duigou : //github.com/jbleduigou
 
 (function (factory) {
     factory(moment);
@@ -4032,7 +4032,7 @@
 }));
 // moment.js locale configuration
 // locale : bosnian (bs)
-// author : Nedim Cholich : https://github.com/frontyard
+// author : Nedim Cholich : //github.com/frontyard
 // based on (hr) translation by Bojan MarkoviÄ‡
 
 (function (factory) {
@@ -4166,7 +4166,7 @@
 }));
 // moment.js locale configuration
 // locale : catalan (ca)
-// author : Juan G. Hurtado : https://github.com/juanghurtado
+// author : Juan G. Hurtado : //github.com/juanghurtado
 
 (function (factory) {
     factory(moment);
@@ -4237,7 +4237,7 @@
 }));
 // moment.js locale configuration
 // locale : czech (cs)
-// author : petrbela : https://github.com/petrbela
+// author : petrbela : //github.com/petrbela
 
 (function (factory) {
     factory(moment);
@@ -4388,7 +4388,7 @@
 }));
 // moment.js locale configuration
 // locale : chuvash (cv)
-// author : Anatoly Mironov : https://github.com/mirontoli
+// author : Anatoly Mironov : //github.com/mirontoli
 
 (function (factory) {
     factory(moment);
@@ -4516,7 +4516,7 @@
 }));
 // moment.js locale configuration
 // locale : danish (da)
-// author : Ulrik Nielsen : https://github.com/mrbase
+// author : Ulrik Nielsen : //github.com/mrbase
 
 (function (factory) {
     factory(moment);
@@ -4568,9 +4568,9 @@
 }));
 // moment.js locale configuration
 // locale : austrian german (de-at)
-// author : lluchs : https://github.com/lluchs
-// author: Menelion ElensÃºle: https://github.com/Oire
-// author : Martin Groller : https://github.com/MadMG
+// author : lluchs : //github.com/lluchs
+// author: Menelion ElensÃºle: //github.com/Oire
+// author : Martin Groller : //github.com/MadMG
 
 (function (factory) {
     factory(moment);
@@ -4636,8 +4636,8 @@
 }));
 // moment.js locale configuration
 // locale : german (de)
-// author : lluchs : https://github.com/lluchs
-// author: Menelion ElensÃºle: https://github.com/Oire
+// author : lluchs : //github.com/lluchs
+// author: Menelion ElensÃºle: //github.com/Oire
 
 (function (factory) {
     factory(moment);
@@ -4703,7 +4703,7 @@
 }));
 // moment.js locale configuration
 // locale : modern greek (el)
-// author : Aggelos Karalias : https://github.com/mehiel
+// author : Aggelos Karalias : //github.com/mehiel
 
 (function (factory) {
     factory(moment);
@@ -4849,7 +4849,7 @@
 }));
 // moment.js locale configuration
 // locale : canadian english (en-ca)
-// author : Jonathan Abourbih : https://github.com/jonbca
+// author : Jonathan Abourbih : //github.com/jonbca
 
 (function (factory) {
     factory(moment);
@@ -4904,7 +4904,7 @@
 }));
 // moment.js locale configuration
 // locale : great britain english (en-gb)
-// author : Chris Gedrim : https://github.com/chrisgedrim
+// author : Chris Gedrim : //github.com/chrisgedrim
 
 (function (factory) {
     factory(moment);
@@ -4963,7 +4963,7 @@
 }));
 // moment.js locale configuration
 // locale : esperanto (eo)
-// author : Colin Dean : https://github.com/colindean
+// author : Colin Dean : //github.com/colindean
 // komento: Mi estas malcerta se mi korekte traktis akuzativojn en tiu traduko.
 //          Se ne, bonvolu korekti kaj avizi min por ke mi povas lerni!
 
@@ -5028,7 +5028,7 @@
 }));
 // moment.js locale configuration
 // locale : spanish (es)
-// author : Julio NapurÃ­ : https://github.com/julionc
+// author : Julio NapurÃ­ : //github.com/julionc
 
 (function (factory) {
     factory(moment);
@@ -5099,8 +5099,8 @@
 }));
 // moment.js locale configuration
 // locale : estonian (et)
-// author : Henry Kehlmann : https://github.com/madhenry
-// improvements : Illimar Tambek : https://github.com/ragulka
+// author : Henry Kehlmann : //github.com/madhenry
+// improvements : Illimar Tambek : //github.com/ragulka
 
 (function (factory) {
     factory(moment);
@@ -5171,7 +5171,7 @@
 }));
 // moment.js locale configuration
 // locale : euskara (eu)
-// author : Eneko Illarramendi : https://github.com/eillarra
+// author : Eneko Illarramendi : //github.com/eillarra
 
 (function (factory) {
     factory(moment);
@@ -5227,7 +5227,7 @@
 }));
 // moment.js locale configuration
 // locale : Persian (fa)
-// author : Ebrahim Byagowi : https://github.com/ebraminio
+// author : Ebrahim Byagowi : //github.com/ebraminio
 
 (function (factory) {
     factory(moment);
@@ -5324,7 +5324,7 @@
 }));
 // moment.js locale configuration
 // locale : finnish (fi)
-// author : Tarmo Aidantausta : https://github.com/bleadof
+// author : Tarmo Aidantausta : //github.com/bleadof
 
 (function (factory) {
     factory(moment);
@@ -5425,7 +5425,7 @@
 }));
 // moment.js locale configuration
 // locale : faroese (fo)
-// author : Ragnar Johannesen : https://github.com/ragnar123
+// author : Ragnar Johannesen : //github.com/ragnar123
 
 (function (factory) {
     factory(moment);
@@ -5477,7 +5477,7 @@
 }));
 // moment.js locale configuration
 // locale : canadian french (fr-ca)
-// author : Jonathan Abourbih : https://github.com/jonbca
+// author : Jonathan Abourbih : //github.com/jonbca
 
 (function (factory) {
     factory(moment);
@@ -5527,7 +5527,7 @@
 }));
 // moment.js locale configuration
 // locale : french (fr)
-// author : John Fischer : https://github.com/jfroffice
+// author : John Fischer : //github.com/jfroffice
 
 (function (factory) {
     factory(moment);
@@ -5581,7 +5581,7 @@
 }));
 // moment.js locale configuration
 // locale : frisian (fy)
-// author : Robin van der Vliet : https://github.com/robin0van0der0v
+// author : Robin van der Vliet : //github.com/robin0van0der0v
 
 (function (factory) {
     factory(moment);
@@ -5644,7 +5644,7 @@
 }));
 // moment.js locale configuration
 // locale : galician (gl)
-// author : Juan G. Hurtado : https://github.com/juanghurtado
+// author : Juan G. Hurtado : //github.com/juanghurtado
 
 (function (factory) {
     factory(moment);
@@ -5711,9 +5711,9 @@
 }));
 // moment.js locale configuration
 // locale : Hebrew (he)
-// author : Tomer Cohen : https://github.com/tomer
-// author : Moshe Simantov : https://github.com/DevelopmentIL
-// author : Tal Ater : https://github.com/TalAter
+// author : Tomer Cohen : //github.com/tomer
+// author : Moshe Simantov : //github.com/DevelopmentIL
+// author : Tal Ater : //github.com/TalAter
 
 (function (factory) {
     factory(moment);
@@ -5785,7 +5785,7 @@
 }));
 // moment.js locale configuration
 // locale : hindi (hi)
-// author : Mayank Singhal : https://github.com/mayanksinghal
+// author : Mayank Singhal : //github.com/mayanksinghal
 
 (function (factory) {
     factory(moment);
@@ -5900,7 +5900,7 @@
 }));
 // moment.js locale configuration
 // locale : hrvatski (hr)
-// author : Bojan MarkoviÄ‡ : https://github.com/bmarkovic
+// author : Bojan MarkoviÄ‡ : //github.com/bmarkovic
 
 // based on (sl) translation by Robert SedovÅ¡ek
 
@@ -6035,7 +6035,7 @@
 }));
 // moment.js locale configuration
 // locale : hungarian (hu)
-// author : Adam Brunner : https://github.com/adambrunner
+// author : Adam Brunner : //github.com/adambrunner
 
 (function (factory) {
     factory(moment);
@@ -6140,7 +6140,7 @@
 }));
 // moment.js locale configuration
 // locale : Armenian (hy-am)
-// author : Armendarabyan : https://github.com/armendarabyan
+// author : Armendarabyan : //github.com/armendarabyan
 
 (function (factory) {
     factory(moment);
@@ -6252,7 +6252,7 @@
 }));
 // moment.js locale configuration
 // locale : Bahasa Indonesia (id)
-// author : Mohammad Satrio Utomo : https://github.com/tyok
+// author : Mohammad Satrio Utomo : //github.com/tyok
 // reference: http://id.wikisource.org/wiki/Pedoman_Umum_Ejaan_Bahasa_Indonesia_yang_Disempurnakan
 
 (function (factory) {
@@ -6327,7 +6327,7 @@
 }));
 // moment.js locale configuration
 // locale : icelandic (is)
-// author : Hinrik Ã–rn SigurÃ°sson : https://github.com/hinrik
+// author : Hinrik Ã–rn SigurÃ°sson : //github.com/hinrik
 
 (function (factory) {
     factory(moment);
@@ -6447,8 +6447,8 @@
 }));
 // moment.js locale configuration
 // locale : italian (it)
-// author : Lorenzo : https://github.com/aliem
-// author: Mattia Larentis: https://github.com/nostalgiaz
+// author : Lorenzo : //github.com/aliem
+// author: Mattia Larentis: //github.com/nostalgiaz
 
 (function (factory) {
     factory(moment);
@@ -6509,7 +6509,7 @@
 }));
 // moment.js locale configuration
 // locale : japanese (ja)
-// author : LI Long : https://github.com/baryon
+// author : LI Long : //github.com/baryon
 
 (function (factory) {
     factory(moment);
@@ -6566,7 +6566,7 @@
 }));
 // moment.js locale configuration
 // locale : Georgian (ka)
-// author : Irakli Janiashvili : https://github.com/irakli-janiashvili
+// author : Irakli Janiashvili : //github.com/irakli-janiashvili
 
 (function (factory) {
     factory(moment);
@@ -6669,7 +6669,7 @@
 }));
 // moment.js locale configuration
 // locale : khmer (km)
-// author : Kruy Vanna : https://github.com/kruyvanna
+// author : Kruy Vanna : //github.com/kruyvanna
 
 (function (factory) {
     factory(moment);
@@ -6722,7 +6722,7 @@
 //
 // authors
 //
-// - Kyungwook, Park : https://github.com/kyungw00k
+// - Kyungwook, Park : //github.com/kyungw00k
 // - Jeeeyul Lee <jeeeyul@gmail.com>
 (function (factory) {
     factory(moment);
@@ -6778,7 +6778,7 @@
 }));
 // moment.js locale configuration
 // locale : Luxembourgish (lb)
-// author : mweimerskirch : https://github.com/mweimerskirch, David Raison : https://github.com/kwisatz
+// author : mweimerskirch : //github.com/mweimerskirch, David Raison : //github.com/kwisatz
 
 // Note: Luxembourgish has a very particular phonological rule ('Eifeler Regel') that causes the
 // deletion of the final 'n' in certain contexts. That's what the 'eifelerRegelAppliesToWeekday'
@@ -6911,7 +6911,7 @@
 }));
 // moment.js locale configuration
 // locale : Lithuanian (lt)
-// author : Mindaugas MozÅ«ras : https://github.com/mmozuras
+// author : Mindaugas MozÅ«ras : //github.com/mmozuras
 
 (function (factory) {
     factory(moment);
@@ -7025,7 +7025,7 @@
 }));
 // moment.js locale configuration
 // locale : latvian (lv)
-// author : Kristaps Karlsons : https://github.com/skakri
+// author : Kristaps Karlsons : //github.com/skakri
 
 (function (factory) {
     factory(moment);
@@ -7098,7 +7098,7 @@
 }));
 // moment.js locale configuration
 // locale : macedonian (mk)
-// author : Borislav Mickov : https://github.com/B0k0
+// author : Borislav Mickov : //github.com/B0k0
 
 (function (factory) {
     factory(moment);
@@ -7180,7 +7180,7 @@
 }));
 // moment.js locale configuration
 // locale : malayalam (ml)
-// author : Floyd Pink : https://github.com/floydpink
+// author : Floyd Pink : //github.com/floydpink
 
 (function (factory) {
     factory(moment);
@@ -7243,7 +7243,7 @@
 }));
 // moment.js locale configuration
 // locale : Marathi (mr)
-// author : Harshad Kale : https://github.com/kalehv
+// author : Harshad Kale : //github.com/kalehv
 
 (function (factory) {
     factory(moment);
@@ -7357,7 +7357,7 @@
 }));
 // moment.js locale configuration
 // locale : Bahasa Malaysia (ms-MY)
-// author : Weldan Jamili : https://github.com/weldan
+// author : Weldan Jamili : //github.com/weldan
 
 (function (factory) {
     factory(moment);
@@ -7514,8 +7514,8 @@
 }));
 // moment.js locale configuration
 // locale : norwegian bokmÃ¥l (nb)
-// authors : Espen Hovlandsdal : https://github.com/rexxars
-//           Sigurd Gartmann : https://github.com/sigurdga
+// authors : Espen Hovlandsdal : //github.com/rexxars
+//           Sigurd Gartmann : //github.com/sigurdga
 
 (function (factory) {
     factory(moment);
@@ -7567,7 +7567,7 @@
 }));
 // moment.js locale configuration
 // locale : nepali/nepalese
-// author : suvash : https://github.com/suvash
+// author : suvash : //github.com/suvash
 
 (function (factory) {
     factory(moment);
@@ -7682,7 +7682,7 @@
 }));
 // moment.js locale configuration
 // locale : dutch (nl)
-// author : Joris RÃ¶ling : https://github.com/jjupiter
+// author : Joris RÃ¶ling : //github.com/jjupiter
 
 (function (factory) {
     factory(moment);
@@ -7745,7 +7745,7 @@
 }));
 // moment.js locale configuration
 // locale : norwegian nynorsk (nn)
-// author : https://github.com/mechuwind
+// author : //github.com/mechuwind
 
 (function (factory) {
     factory(moment);
@@ -7797,7 +7797,7 @@
 }));
 // moment.js locale configuration
 // locale : polish (pl)
-// author : Rafal Hirsz : https://github.com/evoL
+// author : Rafal Hirsz : //github.com/evoL
 
 (function (factory) {
     factory(moment);
@@ -7891,7 +7891,7 @@
 }));
 // moment.js locale configuration
 // locale : brazilian portuguese (pt-br)
-// author : Caio Ribeiro Pereira : https://github.com/caio-ribeiro-pereira
+// author : Caio Ribeiro Pereira : //github.com/caio-ribeiro-pereira
 
 (function (factory) {
     factory(moment);
@@ -7943,7 +7943,7 @@
 }));
 // moment.js locale configuration
 // locale : portuguese (pt)
-// author : Jefferson : https://github.com/jalex79
+// author : Jefferson : //github.com/jalex79
 
 (function (factory) {
     factory(moment);
@@ -7999,8 +7999,8 @@
 }));
 // moment.js locale configuration
 // locale : romanian (ro)
-// author : Vlad Gurdiga : https://github.com/gurdiga
-// author : Valentin Agachi : https://github.com/avaly
+// author : Vlad Gurdiga : //github.com/gurdiga
+// author : Valentin Agachi : //github.com/avaly
 
 (function (factory) {
     factory(moment);
@@ -8066,8 +8066,8 @@
 }));
 // moment.js locale configuration
 // locale : russian (ru)
-// author : Viktorminator : https://github.com/Viktorminator
-// Author : Menelion ElensÃºle : https://github.com/Oire
+// author : Viktorminator : //github.com/Viktorminator
+// Author : Menelion ElensÃºle : //github.com/Oire
 
 (function (factory) {
     factory(moment);
@@ -8236,8 +8236,8 @@
 }));
 // moment.js locale configuration
 // locale : slovak (sk)
-// author : Martin Minka : https://github.com/k2s
-// based on work of petrbela : https://github.com/petrbela
+// author : Martin Minka : //github.com/k2s
+// based on work of petrbela : //github.com/petrbela
 
 (function (factory) {
     factory(moment);
@@ -8388,7 +8388,7 @@
 }));
 // moment.js locale configuration
 // locale : slovenian (sl)
-// author : Robert SedovÅ¡ek : https://github.com/sedovsek
+// author : Robert SedovÅ¡ek : //github.com/sedovsek
 
 (function (factory) {
     factory(moment);
@@ -8528,9 +8528,9 @@
 }));
 // moment.js locale configuration
 // locale : Albanian (sq)
-// author : FlakÃ«rim Ismani : https://github.com/flakerimi
-// author: Menelion ElensÃºle: https://github.com/Oire (tests)
-// author : Oerd Cukalla : https://github.com/oerd (fixes)
+// author : FlakÃ«rim Ismani : //github.com/flakerimi
+// author: Menelion ElensÃºle: //github.com/Oire (tests)
+// author : Oerd Cukalla : //github.com/oerd (fixes)
 
 (function (factory) {
     factory(moment);
@@ -8589,7 +8589,7 @@
 }));
 // moment.js locale configuration
 // locale : Serbian-cyrillic (sr-cyrl)
-// author : Milan JanaÄkoviÄ‡<milanjanackovic@gmail.com> : https://github.com/milan-j
+// author : Milan JanaÄkoviÄ‡<milanjanackovic@gmail.com> : //github.com/milan-j
 
 (function (factory) {
     factory(moment);
@@ -8690,7 +8690,7 @@
 }));
 // moment.js locale configuration
 // locale : Serbian-latin (sr)
-// author : Milan JanaÄkoviÄ‡<milanjanackovic@gmail.com> : https://github.com/milan-j
+// author : Milan JanaÄkoviÄ‡<milanjanackovic@gmail.com> : //github.com/milan-j
 
 (function (factory) {
     factory(moment);
@@ -8791,7 +8791,7 @@
 }));
 // moment.js locale configuration
 // locale : swedish (sv)
-// author : Jens Alm : https://github.com/ulmus
+// author : Jens Alm : //github.com/ulmus
 
 (function (factory) {
     factory(moment);
@@ -8850,7 +8850,7 @@
 }));
 // moment.js locale configuration
 // locale : tamil (ta)
-// author : Arjunkumar Krishnamoorthy : https://github.com/tk120404
+// author : Arjunkumar Krishnamoorthy : //github.com/tk120404
 
 (function (factory) {
     factory(moment);
@@ -8974,7 +8974,7 @@
 }));
 // moment.js locale configuration
 // locale : thai (th)
-// author : Kridsada Thanabulpong : https://github.com/sirn
+// author : Kridsada Thanabulpong : //github.com/sirn
 
 (function (factory) {
     factory(moment);
@@ -9085,8 +9085,8 @@
 }));
 // moment.js locale configuration
 // locale : turkish (tr)
-// authors : Erhan Gundogan : https://github.com/erhangundogan,
-//           Burak YiÄŸit Kaya: https://github.com/BYK
+// authors : Erhan Gundogan : //github.com/erhangundogan,
+//           Burak YiÄŸit Kaya: //github.com/BYK
 
 (function (factory) {
     factory(moment);
@@ -9173,7 +9173,7 @@
 }));
 // moment.js locale configuration
 // locale : Morocco Central Atlas TamaziÉ£t in Latin (tzm-latn)
-// author : Abdel Said : https://github.com/abdelsaid
+// author : Abdel Said : //github.com/abdelsaid
 
 (function (factory) {
     factory(moment);
@@ -9223,7 +9223,7 @@
 }));
 // moment.js locale configuration
 // locale : Morocco Central Atlas TamaziÉ£t (tzm)
-// author : Abdel Said : https://github.com/abdelsaid
+// author : Abdel Said : //github.com/abdelsaid
 
 (function (factory) {
     factory(moment);
@@ -9273,8 +9273,8 @@
 }));
 // moment.js locale configuration
 // locale : ukrainian (uk)
-// author : zemlanin : https://github.com/zemlanin
-// Author : Menelion ElensÃºle : https://github.com/Oire
+// author : zemlanin : //github.com/zemlanin
+// Author : Menelion ElensÃºle : //github.com/Oire
 
 (function (factory) {
     factory(moment);
@@ -9430,7 +9430,7 @@
 }));
 // moment.js locale configuration
 // locale : uzbek (uz)
-// author : Sardor Muminov : https://github.com/muminoff
+// author : Sardor Muminov : //github.com/muminoff
 
 (function (factory) {
     factory(moment);
@@ -9480,7 +9480,7 @@
 }));
 // moment.js locale configuration
 // locale : vietnamese (vi)
-// author : Bang Nguyen : https://github.com/bangnk
+// author : Bang Nguyen : //github.com/bangnk
 
 (function (factory) {
     factory(moment);
@@ -9538,8 +9538,8 @@
 }));
 // moment.js locale configuration
 // locale : chinese (zh-cn)
-// author : suupic : https://github.com/suupic
-// author : Zeno Zeng : https://github.com/zenozeng
+// author : suupic : //github.com/suupic
+// author : Zeno Zeng : //github.com/zenozeng
 
 (function (factory) {
     factory(moment);
@@ -9657,7 +9657,7 @@
 }));
 // moment.js locale configuration
 // locale : traditional chinese (zh-tw)
-// author : Ben : https://github.com/ben-lin
+// author : Ben : //github.com/ben-lin
 
 (function (factory) {
     factory(moment);
@@ -9793,7 +9793,7 @@
 /*! version : 4.17.37
  =========================================================
  bootstrap-datetimejs
- https://github.com/Eonasdan/bootstrap-datetimepicker
+ //github.com/Eonasdan/bootstrap-datetimepicker
  Copyright (c) 2015 Jonathan Peterson
  =========================================================
  */

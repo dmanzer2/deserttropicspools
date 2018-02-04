@@ -1,10 +1,10 @@
 
-[![Build Status](https://travis-ci.org/dmanzer2/vorex.svg?branch=master)](https://travis-ci.org/dmanzer2/deserttropicspools)
+[![Build Status](//travis-ci.org/dmanzer2/vorex.svg?branch=master)](//travis-ci.org/dmanzer2/deserttropicspools)
 
 # Desert Tropics Custom Pools
 
 - NOTE: Perform steps 2-3 only if machine hasn't been setup with node and grunt
-- Download and Install node https://nodejs.org/en/
+- Download and Install node //nodejs.org/en/
 - Install grunt using terminal: sudo npm install -g grunt-cli
 - Clone repo from github to desktop github app
 - cd into project/root folder

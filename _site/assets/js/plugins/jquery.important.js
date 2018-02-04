@@ -225,7 +225,7 @@ if( navigator.platform.toUpperCase().indexOf('MAC') === -1 && !navigator.userAge
 
 /*
  * jQuery.appear
- * https://github.com/bas2k/jquery.appear/
+ * //github.com/bas2k/jquery.appear/
  * http://code.google.com/p/jquery-appear/
  *
  * Copyright (c) 2009 Michael Hixson

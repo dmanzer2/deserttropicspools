@@ -16,7 +16,7 @@ repository. Good bug reports are extremely helpful - thank you!
 Guidelines for bug reports:
 
 1. **Does it belong here?** &mdash; is this a problem with bootstrap-sass, or
-   it an issue with [twbs/bootstrap](https://github.com/twbs/bootstrap)?
+   it an issue with [twbs/bootstrap](//github.com/twbs/bootstrap)?
    We only distribute a direct port and will not modify files if they're not
    changed upstream.
 
@@ -50,7 +50,7 @@ Example:
 > causing the bug, and potential solutions (and your opinions on their
 > merits).
 
-**[File a bug report](https://github.com/twbs/bootstrap-sass/issues/)**
+**[File a bug report](//github.com/twbs/bootstrap-sass/issues/)**
 
 
 ## Pull requests
@@ -80,7 +80,7 @@ Please **do not** use the issue tracker for personal support requests (use
 Please **do not** derail or troll issues. Keep the
 discussion on topic and respect the opinions of others.
 
-*props [html5-boilerplate](https://github.com/h5bp/html5-boilerplate/blob/master/CONTRIBUTING.md)*
+*props [html5-boilerplate](//github.com/h5bp/html5-boilerplate/blob/master/CONTRIBUTING.md)*
 
-[upstream]: https://github.com/twbs/bootstrap
-[converter-readme]: https://github.com/twbs/bootstrap-sass/blob/master/README.md#upstream-converter
+[upstream]: //github.com/twbs/bootstrap
+[converter-readme]: //github.com/twbs/bootstrap-sass/blob/master/README.md#upstream-converter

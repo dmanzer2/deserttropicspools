@@ -2,22 +2,22 @@
 
 ## 3.3.7
 
-* Allows jQuery 3.x in bower.json. [#1048](https://github.com/twbs/bootstrap-sass/issues/1048)
-* Adds the `style` and `sass` fields to package.json. [#1045](https://github.com/twbs/bootstrap-sass/issues/1045)
-* Adds Eyeglass support. [#1007](https://github.com/twbs/bootstrap-sass/pull/1007)
+* Allows jQuery 3.x in bower.json. [#1048](//github.com/twbs/bootstrap-sass/issues/1048)
+* Adds the `style` and `sass` fields to package.json. [#1045](//github.com/twbs/bootstrap-sass/issues/1045)
+* Adds Eyeglass support. [#1007](//github.com/twbs/bootstrap-sass/pull/1007)
 
 ## 3.3.6
 
 * Bumps Sass dependency to 3.3.4+ to avoid compatibility issues with @at-root.
-* Bumps node-sass dependency to ~3.4.2 for Node.js v5 compatibility. [#986](https://github.com/twbs/bootstrap-sass/issues/986)
-* Fixes breadcrumb content issues on libsass. [#919](https://github.com/twbs/bootstrap-sass/issues/919)
-* Fixes a Rails 5 compatibility issue. [#965](https://github.com/twbs/bootstrap-sass/pull/965)
+* Bumps node-sass dependency to ~3.4.2 for Node.js v5 compatibility. [#986](//github.com/twbs/bootstrap-sass/issues/986)
+* Fixes breadcrumb content issues on libsass. [#919](//github.com/twbs/bootstrap-sass/issues/919)
+* Fixes a Rails 5 compatibility issue. [#965](//github.com/twbs/bootstrap-sass/pull/965)
 
 Framework version: Bootstrap **v3.3.6**
 
 ## 3.3.5
 
-Fix for standalone Compass extension compatibility. [#914](https://github.com/twbs/bootstrap-sass/issues/914)
+Fix for standalone Compass extension compatibility. [#914](//github.com/twbs/bootstrap-sass/issues/914)
 
 Framework version: Bootstrap **v3.3.5**
 
@@ -42,12 +42,12 @@ Framework version: Bootstrap **v3.3.2**.
 
 ## 3.3.2.0
 
-* Autoprefixer is now required, and `autoprefixer-rails` is now a dependency for the ruby gem. [#824](https://github.com/twbs/bootstrap-sass/issues/824)
-* Minimum precision reduced from 10 to 8 [#821](https://github.com/twbs/bootstrap-sass/issues/821)
-* Requiring bootstrap JS from npm now works [#812](https://github.com/twbs/bootstrap-sass/issues/812)
-* Fix Sass 3.4.x + IE10 compatibility issue [#803](https://github.com/twbs/bootstrap-sass/issues/803)
-* Provide minified JS bundle [#777](https://github.com/twbs/bootstrap-sass/issues/777)
-* Bower package is now at bootstrap-sass [#813](https://github.com/twbs/bootstrap-sass/issues/813)
+* Autoprefixer is now required, and `autoprefixer-rails` is now a dependency for the ruby gem. [#824](//github.com/twbs/bootstrap-sass/issues/824)
+* Minimum precision reduced from 10 to 8 [#821](//github.com/twbs/bootstrap-sass/issues/821)
+* Requiring bootstrap JS from npm now works [#812](//github.com/twbs/bootstrap-sass/issues/812)
+* Fix Sass 3.4.x + IE10 compatibility issue [#803](//github.com/twbs/bootstrap-sass/issues/803)
+* Provide minified JS bundle [#777](//github.com/twbs/bootstrap-sass/issues/777)
+* Bower package is now at bootstrap-sass [#813](//github.com/twbs/bootstrap-sass/issues/813)
 
 
 ## 3.3.1.0
@@ -68,11 +68,11 @@ Framework version: Bootstrap **v3.3.2**.
 
 Main bootstrap file is now a partial (_bootstrap.scss), for compatibility with Compass 1+.
 
-Fixed a number of bugs. [Issues closed in v3.2.0.2](https://github.com/twbs/bootstrap-sass/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av3.2.0.2).
+Fixed a number of bugs. [Issues closed in v3.2.0.2](//github.com/twbs/bootstrap-sass/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av3.2.0.2).
 
 ## 3.2.0.1
 
-Fixed a number of bugs: [Issues closed in v3.2.0.1](https://github.com/twbs/bootstrap-sass/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av3.2.0.1).
+Fixed a number of bugs: [Issues closed in v3.2.0.1](//github.com/twbs/bootstrap-sass/issues?q=is%3Aissue+is%3Aclosed+milestone%3Av3.2.0.1).
 
 ## 3.2.0.0
 
@@ -83,7 +83,7 @@ Asset path helpers must be imported before `bootstrap`, more in Readme.
 - Sprockets / Mincer JS manifest has been moved to `bootstrap-sprockets.js`.
 It can be required without adding Bootstrap JS directory to load path, as it now uses relative paths.
 - Sprockets: `depend_on_asset` (`glyphicons.scss`) has been changed to `depend_on` to work around an issue with `depend_on_asset`.
-[More information](https://github.com/twbs/bootstrap-sass/issues/592#issuecomment-46570286).
+[More information](//github.com/twbs/bootstrap-sass/issues/592#issuecomment-46570286).
 
 ## 3.1.1.0
 

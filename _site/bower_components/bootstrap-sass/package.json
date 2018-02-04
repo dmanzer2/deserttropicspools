@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/twbs/bootstrap-sass/issues"
+    "url": "//github.com/twbs/bootstrap-sass/issues"
   },
   "devDependencies": {
     "node-sass": "^3.8.0",

@@ -24,7 +24,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/twbs/bootstrap-sass/issues"
+        "issues": "//github.com/twbs/bootstrap-sass/issues"
     },
     "license": "MIT",
     "extra": {

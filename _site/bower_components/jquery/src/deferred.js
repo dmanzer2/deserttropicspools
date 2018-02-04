@@ -113,7 +113,7 @@ jQuery.extend( {
 									var returned, then;
 
 									// Support: Promises/A+ section 2.3.3.3.3
-									// https://promisesaplus.com/#point-59
+									// //promisesaplus.com/#point-59
 									// Ignore double-resolution attempts
 									if ( depth < maxDepth ) {
 										return;
@@ -122,19 +122,19 @@ jQuery.extend( {
 									returned = handler.apply( that, args );
 
 									// Support: Promises/A+ section 2.3.1
-									// https://promisesaplus.com/#point-48
+									// //promisesaplus.com/#point-48
 									if ( returned === deferred.promise() ) {
 										throw new TypeError( "Thenable self-resolution" );
 									}
 
 									// Support: Promises/A+ sections 2.3.3.1, 3.5
-									// https://promisesaplus.com/#point-54
-									// https://promisesaplus.com/#point-75
+									// //promisesaplus.com/#point-54
+									// //promisesaplus.com/#point-75
 									// Retrieve `then` only once
 									then = returned &&
 
 										// Support: Promises/A+ section 2.3.4
-										// https://promisesaplus.com/#point-64
+										// //promisesaplus.com/#point-64
 										// Only check objects and functions for thenability
 										( typeof returned === "object" ||
 											typeof returned === "function" ) &&
@@ -196,7 +196,7 @@ jQuery.extend( {
 											}
 
 											// Support: Promises/A+ section 2.3.3.3.4.1
-											// https://promisesaplus.com/#point-61
+											// //promisesaplus.com/#point-61
 											// Ignore post-resolution exceptions
 											if ( depth + 1 >= maxDepth ) {
 
@@ -213,7 +213,7 @@ jQuery.extend( {
 									};
 
 							// Support: Promises/A+ section 2.3.3.3.1
-							// https://promisesaplus.com/#point-57
+							// //promisesaplus.com/#point-57
 							// Re-resolve promises immediately to dodge false rejection from
 							// subsequent errors
 							if ( depth ) {

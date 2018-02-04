@@ -42,7 +42,7 @@ var hasDuplicate, sortInput,
 		documentElement.msMatchesSelector,
 
 	// CSS string/identifier serialization
-	// https://drafts.csswg.org/cssom/#common-serializing-idioms
+	// //drafts.csswg.org/cssom/#common-serializing-idioms
 	rcssescape = /([\0-\x1f\x7f]|^-?\d)|^-$|[^\x80-\uFFFF\w-]/g,
 	fcssescape = function( ch, asCodePoint ) {
 		if ( asCodePoint ) {
@@ -125,7 +125,7 @@ function uniqueSort( results ) {
 	}
 
 	// Clear input after sorting to release objects
-	// See https://github.com/jquery/sizzle/pull/225
+	// See //github.com/jquery/sizzle/pull/225
 	sortInput = null;
 
 	return results;

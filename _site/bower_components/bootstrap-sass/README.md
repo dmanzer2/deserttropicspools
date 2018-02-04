@@ -1,10 +1,10 @@
 # Bootstrap for Sass
-[![Gem Version](https://badge.fury.io/rb/bootstrap-sass.svg)](http://badge.fury.io/rb/bootstrap-sass)
-[![npm version](https://img.shields.io/npm/v/bootstrap-sass.svg?style=flat)](https://www.npmjs.com/package/bootstrap-sass)
-[![Bower Version](https://badge.fury.io/bo/bootstrap-sass.svg)](http://badge.fury.io/bo/bootstrap-sass)
-[![Build Status](https://img.shields.io/travis/twbs/bootstrap-sass.svg)](https://travis-ci.org/twbs/bootstrap-sass)
+[![Gem Version](//badge.fury.io/rb/bootstrap-sass.svg)](http://badge.fury.io/rb/bootstrap-sass)
+[![npm version](//img.shields.io/npm/v/bootstrap-sass.svg?style=flat)](//www.npmjs.com/package/bootstrap-sass)
+[![Bower Version](//badge.fury.io/bo/bootstrap-sass.svg)](http://badge.fury.io/bo/bootstrap-sass)
+[![Build Status](//img.shields.io/travis/twbs/bootstrap-sass.svg)](//travis-ci.org/twbs/bootstrap-sass)
 
-`bootstrap-sass` is a Sass-powered version of [Bootstrap](https://github.com/twbs/bootstrap) 3, ready to drop right into your Sass powered applications.
+`bootstrap-sass` is a Sass-powered version of [Bootstrap](//github.com/twbs/bootstrap) 3, ready to drop right into your Sass powered applications.
 
 This is Bootstrap 3. For Bootstrap 4 use the [Bootstrap Ruby gem](http://github.com/twbs/bootstrap-rubygem) if you use Ruby, and the [main repo](http://github.com/twbs/bootstrap) otherwise.
 
@@ -58,7 +58,7 @@ Require Bootstrap Javascripts in `app/assets/javascripts/application.js`:
 //= require bootstrap-sprockets
 ```
 
-`bootstrap-sprockets` and `bootstrap` [should not both be included](https://github.com/twbs/bootstrap-sass/issues/829#issuecomment-75153827) in `application.js`.
+`bootstrap-sprockets` and `bootstrap` [should not both be included](//github.com/twbs/bootstrap-sass/issues/829#issuecomment-75153827) in `application.js`.
 
 `bootstrap-sprockets` provides individual Bootstrap Javascript files (`alert.js` or `dropdown.js`, for example), while
 `bootstrap` provides a concatenated file containing all Bootstrap Javascripts.
@@ -154,7 +154,7 @@ $ bower install bootstrap-sass
 Sass, JS, and all other assets are located at [assets](/assets).
 
 By default, `bower.json` main field list only the main `_bootstrap.scss` and all the static assets (fonts and JS).
-This is compatible by default with asset managers such as [wiredep](https://github.com/taptapship/wiredep).
+This is compatible by default with asset managers such as [wiredep](//github.com/taptapship/wiredep).
 
 #### Node.js Mincer
 
@@ -199,7 +199,7 @@ In the application Sass file, replace `@import 'bootstrap'` with:
 
 ### Sass: Number Precision
 
-bootstrap-sass [requires](https://github.com/twbs/bootstrap-sass/issues/409) minimum [Sass number precision][sass-precision] of 8 (default is 5).
+bootstrap-sass [requires](//github.com/twbs/bootstrap-sass/issues/409) minimum [Sass number precision][sass-precision] of 8 (default is 5).
 
 Precision is set for Rails and Compass automatically.
 When using Ruby Sass compiler standalone or with the Bower version you can set it with:
@@ -296,7 +296,7 @@ $navbar-default-color: $light-orange;
 
 ### Eyeglass
 
-Bootstrap is available as an [Eyeglass](https://github.com/sass-eyeglass/eyeglass) module. After installing Bootstrap via NPM you can import the Bootstrap library via:
+Bootstrap is available as an [Eyeglass](//github.com/sass-eyeglass/eyeglass) module. After installing Bootstrap via NPM you can import the Bootstrap library via:
 
 ```scss
 @import "bootstrap-sass/bootstrap"
@@ -343,7 +343,7 @@ Keeping bootstrap-sass in sync with upstream changes from Bootstrap used to be a
 
 Upstream changes to the Bootstrap project can now be pulled in using the `convert` rake task.
 
-Here's an example run that would pull down the master branch from the main [twbs/bootstrap](https://github.com/twbs/bootstrap) repo:
+Here's an example run that would pull down the master branch from the main [twbs/bootstrap](//github.com/twbs/bootstrap) repo:
 
     rake convert
 
@@ -367,24 +367,24 @@ Please submit GitHub issues tagged with `conversion`.
 bootstrap-sass has a number of major contributors:
 
 <!-- feel free to make these link wherever you wish -->
-* [Thomas McDonald](https://twitter.com/thomasmcdonald_)
+* [Thomas McDonald](//twitter.com/thomasmcdonald_)
 * [Tristan Harward](http://www.trisweb.com)
 * Peter Gumeson
-* [Gleb Mazovetskiy](https://github.com/glebm)
+* [Gleb Mazovetskiy](//github.com/glebm)
 
 and a [significant number of other contributors][contrib].
 
 ## You're in good company
 bootstrap-sass is used to build some awesome projects all over the web, including
-[Diaspora](https://diasporafoundation.org/), [rails_admin](https://github.com/sferik/rails_admin),
-Michael Hartl's [Rails Tutorial](https://www.railstutorial.org/), [gitlabhq](http://gitlabhq.com/) and
+[Diaspora](//diasporafoundation.org/), [rails_admin](//github.com/sferik/rails_admin),
+Michael Hartl's [Rails Tutorial](//www.railstutorial.org/), [gitlabhq](http://gitlabhq.com/) and
 [kandan](http://getkandan.com/).
 
-[converter]: https://github.com/twbs/bootstrap-sass/blob/master/tasks/converter/less_conversion.rb
-[version]: https://github.com/twbs/bootstrap-sass/blob/master/lib/bootstrap-sass/version.rb
-[contrib]: https://github.com/twbs/bootstrap-sass/graphs/contributors
-[antirequire]: https://github.com/twbs/bootstrap-sass/issues/79#issuecomment-4428595
+[converter]: //github.com/twbs/bootstrap-sass/blob/master/tasks/converter/less_conversion.rb
+[version]: //github.com/twbs/bootstrap-sass/blob/master/lib/bootstrap-sass/version.rb
+[contrib]: //github.com/twbs/bootstrap-sass/graphs/contributors
+[antirequire]: //github.com/twbs/bootstrap-sass/issues/79#issuecomment-4428595
 [jsdocs]: http://getbootstrap.com/javascript/#transitions
 [sass-precision]: http://sass-lang.com/documentation/Sass/Script/Value/Number.html#precision%3D-class_method
-[mincer]: https://github.com/nodeca/mincer
-[autoprefixer]: https://github.com/postcss/autoprefixer
+[mincer]: //github.com/nodeca/mincer
+[autoprefixer]: //github.com/postcss/autoprefixer
