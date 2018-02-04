@@ -1,6 +1,4 @@
-- title: Home
-  href: /
-- title: About Us
+- title: About
   href: /about/
 - title: Gallery
   href: /gallery/
@@ -8,5 +6,7 @@
   href: /customer-pages/
 - title: Blog
   href: /blog/
-- title: Contact Us
+- title: Financing
+  href: /financing/
+- title: Contact
   href: /contact/

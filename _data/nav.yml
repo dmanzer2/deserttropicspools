@@ -1,21 +1,26 @@
-- title: Home
-  href: /
-- title: About Us
+- title: About
   href: /about/
+  subcategories:
+    - subtitle: Our Process
+      subhref: /about/our-process/
+    - subtitle: Equipment & Materials
+      subhref: /about/equipment-materials/
 - title: Gallery
   href: /gallery/
 - title: Customer Pages
   href: /customer-pages/
   subcategories:
-    - subtitle: Product Equipment Options
-      subhref: /customer-pages/product-equipment-options/
-    - subtitle: Financing
-      subhref: /customer-pages/financing/
-    - subtitle: Pool care
-      subhref: /customer-pages/pool-care/
-    - subtitle: Equipment manuals
-      subhref: /customer-pages/equipment-manuals/
+    - subtitle: Maintenance
+      subhref: /customer-pages/maintenance/
+    - subtitle: Warranty
+      subhref: /customer-pages/warranty/
+    - subtitle: Manuals
+      subhref: /customer-pages/manuals/
+    - subtitle: Equipment Options
+      subhref: /customer-pages/equipment-options/
 - title: Blog
   href: /blog/
-- title: Contact Us
+- title: Financing
+  href: /financing/
+- title: Contact
   href: /contact/
