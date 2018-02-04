@@ -1,6 +1,8 @@
 - title: About
   href: /about/
   subcategories:
+    - subtitle: About Us
+      subhref: /about-us/
     - subtitle: Our Process
       subhref: /about/our-process/
     - subtitle: Equipment & Materials
