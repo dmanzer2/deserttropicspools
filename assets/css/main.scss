@@ -83,7 +83,7 @@ i.acc-open.icon-remove-circle {
   background-color: #273B43;
 }
 
-h1, h2, h3, #page-title h1  {
+h1, h2, h3, h4, #page-title h1  {
   color: #74C99D;
 }
 
@@ -125,8 +125,11 @@ h1, h2, h3, #page-title h1  {
   color: #eee;
 }
 
-.acc_content {
+.acc_content, .eco {
   color: #eee;
+  i {
+    color: #74C99D;
+  }
 }
 
 .content-wrap .footer-stick {
