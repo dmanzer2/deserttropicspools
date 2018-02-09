@@ -43,7 +43,9 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 sass:
-  sass_dir: bower_components/bootstrap-sass/assets/stylesheets
+  load_paths:
+    - bower_components/bootstrap-sass/assets/stylesheets
+    - assets/css
   style: compressed
 exclude:
   - node_modules
