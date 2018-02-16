@@ -14,3 +14,9 @@
 - Run bundle install
 - Run grunt in terminal
 - Local server should be running at http://localhost:3000/
+
+# Aternative to Grunt
+
+- bundle install
+- bundle exec jekyll serve
+- localhost: http://127.0.0.1:4000/deserttropicspools/
