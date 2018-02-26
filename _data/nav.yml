@@ -9,6 +9,10 @@
       subhref: /about/equipment-materials/
 - title: Gallery
   href: /gallery/
+- title: Financing
+  href: /financing/
+- title: Blog
+  href: /blog/
 - title: Customer Pages
   href: /customer-pages/
   subcategories:
@@ -20,9 +24,5 @@
       subhref: /customer-pages/manuals/
     - subtitle: Equipment Options
       subhref: /customer-pages/equipment-options/
-- title: Blog
-  href: /blog/
-- title: Financing
-  href: /financing/
 - title: Contact
   href: /contact/

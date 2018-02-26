@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: https://dmanzer2.github.io/deserttropicspools/
