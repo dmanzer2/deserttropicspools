@@ -1,0 +1,98 @@
+---
+title: Photo Gallery | Desert Tropics Custom Pools
+subtitle: View some of our recently built pools
+active: Photo Gallery
+permalink: /photo-gallery/
+layout: page-template
+comments: false
+nav_background_image: /assets/images/slider/swiper/4.jpg
+img_position: center -200px
+description: Desert Tropics Custom Pools, Arizona
+tags:
+  - data_filter: dt-custom
+    title: Custom Pools
+  - data_filter: dt-geometric
+    title: Geometric Pools
+  - data_filter: dt-freeform
+    title: Freeform Pools
+  - data_filter: dt-water-fire
+    title: Fire/Water Features
+  - data_filter: dt-kitchens
+    title: Outdoor Kitchens
+  - data_filter: dt-landscaping
+    title: Landscape
+  - data_filter: dt-structures
+    title: Structures
+  - data_filter: dt-lazy-river
+    title: Lazy River
+images:
+  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-1.jpg
+    class: dt-custom dt-freeform
+    tags:
+      - Custom Pool
+      - Freeform Pool
+  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-2.jpg
+    class: dt-custom dt-kitchens
+  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-3.jpg
+    class: dt-custom dt-kitchens dt-structures
+  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-4.jpg
+    class: dt-custom dt-geometric
+  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-5.jpg
+    class: dt-custom dt-freeform
+  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-6.jpg
+    class: dt-custom dt-kitchens
+  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-7.jpg
+    class: dt-custom dt-kitchens dt-structures
+  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-8.jpg
+    class: dt-custom dt-geometric
+  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-9.jpg
+    class: dt-custom dt-geometric
+  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-10.jpg
+    class: dt-custom dt-geometric
+---
+
+{% include page-title.html %}
+
+<section id="content" class="gallery-page">
+  <div class="content-wrap">
+    <div class="container clearfix">
+
+      <!-- Portfolio Filter -->
+      <ul class="portfolio-filter clearfix" data-container="#portfolio">
+        <li class="activeFilter"><a href="#" data-filter="*">Show All</a></li>
+        {% for tag in page.tags %}
+        <li><a href="#" data-filter=".{{ tag.data_filter }}">{{ tag.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <div class="portfolio-shuffle" data-container="#portfolio">
+        <i class="icon-random"></i>
+      </div>
+
+      <div class="clear"></div>
+
+      <!-- Gallery Items -->
+      <div id="portfolio" class="portfolio grid-container clearfix">
+        <ul>
+
+          {% for image in page.images %}
+            <li style="display:inline;">
+              <article class="portfolio-item {{ image.class }}">
+                <div class="portfolio-image">
+                  <img src="{{ site.baseurl }}{{ image.image_path }}" alt="">
+                  <div class="portfolio-overlay">
+                    <a href="{{ site.baseurl }}{{ image.image_path }}" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                  </div>
+                </div>
+                <div class="portfolio-desc">
+                  <span><a href="#">{{ image.tags [0] }}</a>, <a href="#">{{ image.tags [1] }}</a></span>
+                </div>
+              </article>
+            </li>
+          {% endfor %}
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
