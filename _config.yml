@@ -2,9 +2,6 @@
 title: Desert Tropics Custom Pools
 timezone: Arizona
 collections:
-  uploads:
-    title: Uploads
-    output: true
   posts:
     title: Desert Tropics Blog Posts
     output: true

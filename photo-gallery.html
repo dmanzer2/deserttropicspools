@@ -4,51 +4,10 @@ subtitle: View some of our recently built pools
 active: Photo Gallery
 permalink: /photo-gallery/
 layout: page-template
-comments: false
+comments: falses
 nav_background_image: /assets/images/slider/swiper/4.jpg
 img_position: center -200px
 description: Desert Tropics Custom Pools, Arizona
-tags:
-  - data_filter: dt-custom
-    title: Custom Pools
-  - data_filter: dt-geometric
-    title: Geometric Pools
-  - data_filter: dt-freeform
-    title: Freeform Pools
-  - data_filter: dt-water-fire
-    title: Fire/Water Features
-  - data_filter: dt-kitchens
-    title: Outdoor Kitchens
-  - data_filter: dt-landscaping
-    title: Landscape
-  - data_filter: dt-structures
-    title: Structures
-  - data_filter: dt-lazy-river
-    title: Lazy River
-images:
-  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-1.jpg
-    class: dt-custom dt-freeform
-    tags:
-      - Custom Pool
-      - Freeform Pool
-  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-2.jpg
-    class: dt-custom dt-kitchens
-  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-3.jpg
-    class: dt-custom dt-kitchens dt-structures
-  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-4.jpg
-    class: dt-custom dt-geometric
-  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-5.jpg
-    class: dt-custom dt-freeform
-  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-6.jpg
-    class: dt-custom dt-kitchens
-  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-7.jpg
-    class: dt-custom dt-kitchens dt-structures
-  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-8.jpg
-    class: dt-custom dt-geometric
-  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-9.jpg
-    class: dt-custom dt-geometric
-  - image_path: /assets/images/gallery-images/desert-tropics-custom-pools-10.jpg
-    class: dt-custom dt-geometric
 ---
 
 {% include page-title.html %}
@@ -60,9 +19,14 @@ images:
       <!-- Portfolio Filter -->
       <ul class="portfolio-filter clearfix" data-container="#portfolio">
         <li class="activeFilter"><a href="#" data-filter="*">Show All</a></li>
-        {% for tag in page.tags %}
-        <li><a href="#" data-filter=".{{ tag.data_filter }}">{{ tag.title }}</a></li>
-        {% endfor %}
+        <li><a href="#" data-filter=".dt-custom">Custom Pools</a></li>
+        <li><a href="#" data-filter=".dt-geometric">Geometric Pools</a></li>
+        <li><a href="#" data-filter=".dt-freeform">Freeform Pools</a></li>
+        <li><a href="#" data-filter=".dt-water-fire">Fire/Water Features</a></li>
+        <li><a href="#" data-filter=".dt-kitchens">Outdoor Kitchens</a></li>
+        <li><a href="#" data-filter=".dt-landscaping">Landscape</a></li>
+        <li><a href="#" data-filter=".dt-structures">Structures</a></li>
+        <li><a href="#" data-filter=".dt-lazy-river">Lazy River</a></li>
       </ul>
 
       <div class="portfolio-shuffle" data-container="#portfolio">
@@ -73,26 +37,21 @@ images:
 
       <!-- Gallery Items -->
       <div id="portfolio" class="portfolio grid-container clearfix">
-        <ul>
-
-          {% for image in page.images %}
-            <li style="display:inline;">
-              <article class="portfolio-item {{ image.class }}">
-                <div class="portfolio-image">
-                  <img src="{{ site.baseurl }}{{ image.image_path }}" alt="">
-                  <div class="portfolio-overlay">
-                    <a href="{{ site.baseurl }}{{ image.image_path }}" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                  </div>
-                </div>
-                <div class="portfolio-desc">
-                  <span><a href="#">{{ image.tags [0] }}</a>, <a href="#">{{ image.tags [1] }}</a></span>
-                </div>
-              </article>
-            </li>
-          {% endfor %}
-
-        </ul>
+        {% for gallery in site.data.gallery limit: 16 %}
+          <article class="portfolio-item {{ gallery.data_filter }}">
+            <div class="portfolio-image">
+              <img src="{{ site.baseurl }}{{ gallery.image_path }}" alt="">
+              <div class="portfolio-overlay">
+                <a href="{{ site.baseurl }}{{ gallery.image_path }}" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+              </div>
+            </div>
+            <div class="portfolio-desc">
+              <span><a href="#">{{ gallery.category [0] }}</a> <a href="#">{{ gallery.category [1] }} <a href="#">{{ gallery.category [2] }}</a> <a href="#">{{ gallery.category [3] }}</a> <a href="#">{{ gallery.category [4] }}</a> <a href="#">{{ gallery.category [5] }}</a> <a href="#">{{ gallery.category [6] }}</a></span>
+            </div>
+          </article>
+        {% endfor %}
       </div>
+
     </div>
   </div>
 </section>

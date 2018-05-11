@@ -1,0 +1,18 @@
+---
+permalink: /tester/
+layout: page-template
+nav_background_image: /assets/images/slider/swiper/4.jpg
+img_position: center -200px
+---
+<ul>
+  {% for gallery in site.data.gallery limit: 3 %}
+
+
+      <li>
+          <img src="{{ site.baseurl }}{{ gallery.image_path }}" alt="">
+      </li>
+
+
+
+  {% endfor %}
+</ul>
