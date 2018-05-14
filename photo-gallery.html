@@ -37,7 +37,7 @@ description: Desert Tropics Custom Pools, Arizona
 
       <!-- Gallery Items -->
       <div id="portfolio" class="portfolio grid-container clearfix">
-        {% for gallery in site.data.gallery limit: 16 %}
+        {% for gallery in site.data.gallery %}
           <article class="portfolio-item {{ gallery.data_filter }}">
             <div class="portfolio-image">
               <img src="{{ site.baseurl }}{{ gallery.image_path }}" alt="">
@@ -45,7 +45,7 @@ description: Desert Tropics Custom Pools, Arizona
                 <a href="{{ site.baseurl }}{{ gallery.image_path }}" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
               </div>
             </div>
-            <div class="portfolio-desc">
+            <div class="portfolio-desc" style="min-height:88px;">
               <span><a href="#">{{ gallery.category [0] }}</a> <a href="#">{{ gallery.category [1] }} <a href="#">{{ gallery.category [2] }}</a> <a href="#">{{ gallery.category [3] }}</a> <a href="#">{{ gallery.category [4] }}</a> <a href="#">{{ gallery.category [5] }}</a> <a href="#">{{ gallery.category [6] }}</a></span>
             </div>
           </article>
