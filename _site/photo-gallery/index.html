@@ -129,18 +129,13 @@
 </section>
 
 
-<script>
-
-
-</script>
-
 <section id="content" class="gallery-page">
   <div class="content-wrap">
     <div class="container clearfix">
 
       <!-- Portfolio Filter -->
-      <ul class="portfolio-filter clearfix" data-container="#portfolio">
-        <li class="activeFilter"><a href="#" data-filter=".dt-geometric">Geometric Pools</a></li>
+      <ul id="filters" class="portfolio-filter clearfix" data-container="#portfolio">
+        <li class="activeFilter"><a href="#" data-filter=".dt-geometric" class="selected">Geometric Pools</a></li>
         <li><a href="#" data-filter=".dt-freeform">Freeform Pools</a></li>
         <li><a href="#" data-filter=".dt-water-fire">Fire/Water Features</a></li>
         <li><a href="#" data-filter=".dt-kitchens">Outdoor Kitchens</a></li>
@@ -3515,6 +3510,39 @@
 	<div id="gotoTop" class="icon-angle-up"></div>
 
 	<script type="text/javascript" src="/deserttropicspools/assets/js/jquery.js"></script>
+<script>
+$(function(){
+
+  var $container = $('#portfolio'),
+      $filterLinks = $('#filters a');
+
+  $container.isotope({
+    itemSelector: '.portfolio-item',
+    filter: '.dt-geometric'
+  });
+
+  $filterLinks.click(function(){
+    var $this = $(this);
+
+    // don't proceed if already selected
+    if ( $this.hasClass('selected') ) {
+      return;
+    }
+
+    $filterLinks.filter('.selected').removeClass('selected');
+    $this.addClass('selected');
+
+    // get selector from data-filter attribute
+    selector = $this.data('filter');
+
+    $container.isotope({
+      filter: selector
+    });
+
+  });
+
+});
+</script>
 <script type="text/javascript" src="/deserttropicspools/assets/js/plugins.js"></script>
 <script type="text/javascript" src="/deserttropicspools/assets/js/functions.js"></script>
 
