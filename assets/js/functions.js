@@ -1851,7 +1851,9 @@ var SEMICOLON = SEMICOLON || {};
 			if( $container.length < 1 ) { return true; }
 			if( $container.hasClass('customjs') ) { return true; }
 
+
 			$container.each( function(){
+
 				var element = $(this),
 					elementTransition = element.attr('data-transition'),
 					elementLayoutMode = element.attr('data-layout'),

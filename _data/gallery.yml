@@ -1,74 +1,76 @@
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-1.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-1.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-2.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-2.jpg
   category:
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-3.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-3.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-4.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-4.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-freeform dt-landscaping
+  data_filter: dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-5.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-5.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-6.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-6.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-7.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-7.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-8.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-8.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping dt-structures
+  data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-9.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-9.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-10.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-10.jpg
   category:
     - Landscape,
     - Structures,
@@ -76,455 +78,460 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-11.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-11.jpg
   category:
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-freeform
+  data_filter: dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-12.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-12.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-13.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-13.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-14.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-14.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-15.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-15.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-16.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-16.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-17.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-17.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-18.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-18.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-freeform dt-landscaping
+  data_filter: dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-19.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-19.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-freeform dt-landscaping
+  data_filter: dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-20.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-20.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-freeform dt-landscaping
+  data_filter: dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-21.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-21.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-freeform dt-landscaping
+  data_filter: dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-22.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-22.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-23.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-23.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-24.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-24.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-freeform
+  data_filter: dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-25.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-25.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-26.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-26.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-27.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-27.jpg
   category:
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-28.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-28.jpg
   category:
-  - Custom Pools,
+    - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-29.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-29.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform dt-landscaping
+  data_filter: dt-water-fire dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-30.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-30.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform dt-structures
+  data_filter: dt-water-fire dt-freeform dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-31.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-31.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Structures,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-32.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-32.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-33.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-33.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-34.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-34.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-35.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-35.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-36.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-36.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-37.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-37.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-38.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-38.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform dt-landscaping
+  data_filter: dt-water-fire dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-39.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-39.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-40.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-40.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-41.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-41.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-42.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-42.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-43.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-43.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-44.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-44.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-45.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-45.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-46.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-46.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-47.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-47.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-48.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-48.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-49.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-49.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-50.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-50.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-51.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-51.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-52.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-52.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Freeform Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-53.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-53.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-54.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-54.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric dt-landscaping
+  data_filter: dt-water-fire dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-55.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-55.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Geometric Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-kitchens dt-structures
+  data_filter: dt-kitchens dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-56.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-56.jpg
   category:
-    - Custom Pools,
     - Outdoor Kitchens,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform dt-landscaping
+  data_filter: dt-water-fire dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-57.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-57.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Freeform Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-58.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-58.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric dt-landscaping
+  data_filter: dt-water-fire dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-59.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-59.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Geometric Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform dt-landscaping
+  data_filter: dt-water-fire dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-60.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-60.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric dt-landscaping
+  data_filter: dt-water-fire dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-61.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-61.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-62.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-62.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric dt-landscaping
+  data_filter: dt-water-fire dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-63.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-63.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric dt-landscaping
+  data_filter: dt-water-fire dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-64.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-64.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform dt-landscaping dt-kitchens
+  data_filter: dt-water-fire dt-freeform dt-landscaping dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-65.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-65.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Freeform Pool,
     - Landscape,
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform dt-landscaping
+  data_filter: dt-water-fire dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-66.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-66.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Freeform Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform dt-landscaping
+  data_filter: dt-water-fire dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-67.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-67.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Freeform Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-68.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-68.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform dt-landscaping dt-kitchens dt-structures
+  data_filter: dt-water-fire dt-freeform dt-landscaping dt-kitchens dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-69.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-69.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Freeform Pool,
     - Landscape,
@@ -532,786 +539,809 @@
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric dt-landscaping
+  data_filter: dt-water-fire dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-70.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-70.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric dt-landscaping
+  data_filter: dt-water-fire dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-71.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-71.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-72.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-72.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric dt-landscaping
+  data_filter: dt-water-fire dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-73.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-73.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric dt-landscaping
+  data_filter: dt-water-fire dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-74.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-74.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-75.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-75.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-76.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-76.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform dt-landscaping
+  data_filter: dt-water-fire dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-77.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-77.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-78.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-78.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-79.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-79.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-80.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-80.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-81.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-81.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-82.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-82.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-structures
+  data_filter: dt-water-fire dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-83.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-83.jpg
   category:
-    - Custom Pools,
     - Structures,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-84.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-84.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-85.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-85.jpg
   category:
-    - Structures,
+      - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-86.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-86.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-87.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-87.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-88.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-88.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-89.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-89.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-90.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-90.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-91.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-91.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-92.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-92.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-93.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-93.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-freeform dt-landscaping
+  data_filter: dt-freeform dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-94.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-94.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-95.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-95.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-structures
+  data_filter: dt-water-fire dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-96.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-96.jpg
   category:
-    - Custom Pools,
     - Structures,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-structures
+  data_filter: dt-water-fire dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-97.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-97.jpg
   category:
-    - Custom Pools,
     - Structures,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-98.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-98.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-99.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-99.jpg
   category:
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-100.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-100.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-101.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-101.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-102.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-102.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-103.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-103.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-104.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-104.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-105.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-105.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-106.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-106.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-107.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-107.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-108.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-108.jpg
   category:
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-109.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-109.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-110.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-110.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-111.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-111.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-112.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-112.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-113.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-113.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Freeform Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-freeform dt-kitchens
+  data_filter: dt-freeform dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-114.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-114.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-freeform
+  data_filter: dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-115.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-115.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-116.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-116.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-117.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-117.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-118.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-118.jpg
   category:
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric dt-landscaping
+  data_filter: dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-119.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-119.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-120.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-120.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-121.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-121.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-122.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-122.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-123.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-123.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-124.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-124.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-125.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-125.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-126.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-126.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-127.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-127.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-128.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-128.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-129.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-129.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-130.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-130.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-131.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-131.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-132.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-132.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-133.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-133.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-134.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-134.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-135.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-135.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-136.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-136.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-137.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-137.jpg
   category:
-  - Custom Pools,
+    - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-138.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-138.jpg
   category:
-  - Custom Pools,
+    - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-139.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-139.jpg
   category:
-  - Fire/Water Feature,
+    - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-140.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-140.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-141.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-141.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-142.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-142.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-143.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-143.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-144.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-144.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-145.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-145.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-146.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-146.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-147.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-147.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-148.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-148.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-149.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-149.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-150.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-150.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-151.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-151.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-152.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-152.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-153.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-153.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-154.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-154.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-155.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-155.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-156.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-156.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-157.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-157.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-158.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-158.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping dt-structures
+  data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-159.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-159.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping dt-structures
+  data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-160.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-160.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscapingdt-structures
+  data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-161.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-161.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-162.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-162.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-163.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-163.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping dt-structures
+  data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-164.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-164.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping dt-structures
+  data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-165.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-165.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping dt-structures
+  data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-166.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-166.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-167.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-167.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-168.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-168.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping dt-structures
+  data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-169.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-169.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-170.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-170.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-171.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-171.jpg
   category:
     - Custom Pools,
+
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-172.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-172.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-173.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-173.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-174.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-174.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-175.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-175.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-176.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-176.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-177.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-177.jpg
   category:
     - Landscape,
     - Structures,
@@ -1319,58 +1349,64 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-178.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-178.jpg
   category:
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-179.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-180.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-181.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-181.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-structures
+  data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-182.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-182.jpg
   category:
-    - Custom Pools,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-183.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-183.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping dt-structures
+  data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-184.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-184.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-185.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-185.jpg
   category:
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-186.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-186.jpg
   category:
     - Landscape,
     - Structures,
@@ -1378,34 +1414,36 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-187.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-187.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-188.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-188.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping dt-structures
+  data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-189.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-189.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-structures
+  data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-190.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-190.jpg
   category:
-    - Custom Pools,
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-191.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-191.jpg
   category:
     - Landscape,
     - Structures,
@@ -1413,95 +1451,105 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-192.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-192.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-193.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-193.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-194.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-194.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-195.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-195.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-196.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-196.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-197.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-197.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-198.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-198.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-199.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-199.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-200.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-200.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-201.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-201.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-202.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-202.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-203.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-203.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-204.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-204.jpg
   category:
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-205.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-205.jpg
   category:
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-206.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-206.jpg
   category:
     - Fire/Water Feature,
     - Structures,
@@ -1509,34 +1557,36 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-207.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-207.jpg
   category:
     - Fire/Water Feature,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-208.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-208.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-209.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-209.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-210.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-210.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-211.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-211.jpg
   category:
     - Landscape,
     - Fire/Water Feature,
@@ -1544,18 +1594,21 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-212.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-212.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-213.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-213.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-214.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-214.jpg
   category:
     - Fire/Water Feature,
     - Structures,
@@ -1563,6 +1616,7 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-215.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-215.jpg
   category:
     - Fire/Water Feature,
     - Structures,
@@ -1570,19 +1624,21 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-216.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-216.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-217.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-217.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-218.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-218.jpg
   category:
     - Fire/Water Feature,
     - Landscape,
@@ -1590,241 +1646,260 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-219.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-219.jpg
   category:
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-220.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-220.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-221.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-221.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-kitchens
+  data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-222.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-222.jpg
   category:
-    - Custom Pools,
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-223.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-223.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-224.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-224.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-225.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-225.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-226.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-226.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-227.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-227.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-228.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-228.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-229.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-229.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-230.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-230.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-231.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-231.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-232.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-232.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-233.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-233.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-234.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-234.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-235.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-235.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-236.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-236.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-237.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-237.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-238.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-238.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-239.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-239.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-240.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-240.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-241.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-241.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-242.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-242.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-243.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-243.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-244.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-244.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-245.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-245.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-246.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-246.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-247.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-247.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-248.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-248.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-249.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-249.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-250.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-250.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-251.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-251.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-252.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-252.jpg
   category:
-    - Landscape,
+      - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-253.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-253.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-254.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-254.jpg
   category:
     - Fire/Water Feature,
     - Outdoor Kitchens,
@@ -1832,99 +1907,108 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-255.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-255.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-256.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-256.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-257.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-257.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-258.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-258.jpg
   category:
     - Fire/Water Feature,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-259.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-259.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-260.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-260.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-261.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-261.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-262.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-262.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-263.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-263.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-264.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-264.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-265.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-265.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-266.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-266.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-267.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-267.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-268.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-268.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-269.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-269.jpg
   category:
     - Outdoor Kitchens,
     - Structures,
@@ -1932,6 +2016,7 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-270.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-270.jpg
   category:
     - Outdoor Kitchens,
     - Structures,
@@ -1939,39 +2024,43 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-271.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-271.jpg
   category:
     - Outdoor Kitchens,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-structures
+  data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-272.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-272.jpg
   category:
-    - Custom Pools,
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-273.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-273.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-274.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-274.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-275.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-275.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-276.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-276.jpg
   category:
     - Outdoor Kitchens,
     - Structures,
@@ -1979,12 +2068,14 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-277.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-277.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-278.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-278.jpg
   category:
     - Outdoor Kitchens,
     - Structures,
@@ -1992,538 +2083,564 @@
 - title: Desert Tropics Custom Pools
   data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-279.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-279.jpg
   category:
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-280.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-280.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-281.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-281.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-kitchens dt-structures
+  data_filter: dt-kitchens dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-282.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-282.jpg
   category:
-    - Custom Pools,
     - Outdoor Kitchens,
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-283.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-283.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-structures
+  data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-284.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-284.jpg
   category:
-    - Custom Pools,
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-285.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-285.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-286.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-286.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-287.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-287.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-structures
+  data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-288.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-288.jpg
   category:
-    - Custom Pools,
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-289.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-289.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-290.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-290.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-291.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-291.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-structures
+  data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-292.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-292.jpg
   category:
-    - Custom Pools,
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-293.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-293.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-kitchens dt-structures
+  data_filter: dt-kitchens dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-294.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-294.jpg
   category:
-    - Custom Pools,
     - Outdoor Kitchens,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-kitchens dt-structures
+  data_filter: dt-kitchens dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-295.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-295.jpg
   category:
-    - Custom Pools,
     - Outdoor Kitchens,
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-structures
+  data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-296.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-296.jpg
   category:
-    - Custom Pools,
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-297.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-297.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-298.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-299.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-300.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-301.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-302.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-303.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-304.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-305.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-306.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-307.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric dt-landscaping
+  data_filter: dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-308.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric dt-landscaping
+  data_filter: dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-309.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric dt-landscaping
+  data_filter: dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-310.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric dt-landscaping
+  data_filter: dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-311.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric dt-landscaping
+  data_filter: dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-312.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric dt-landscaping
+  data_filter: dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-313.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric dt-landscaping
+  data_filter: dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-314.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric dt-landscaping
+  data_filter: dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-315.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-316.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-317.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-318.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-319.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-320.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-321.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-322.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-323.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-324.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-325.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-326.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-327.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-328.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-kitchens
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-329.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Outdoor Kitchens,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric dt-landscaping
+  data_filter: dt-water-fire dt-geometric dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-330.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-331.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-332.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-333.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-geometric
+  data_filter: dt-water-fire dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-334.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-335.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-336.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-337.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-338.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-339.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-340.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-341.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-342.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
     - Fire/Water Feature,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-343.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-custom
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-344.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-344.jpg
   category:
     - Custom Pools,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-freeform
+  data_filter: dt-water-fire dt-freeform
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-345.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-345.jpg
   category:
-    - Custom Pools,
     - Freeform Pool,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-346.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-346.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-347.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire
+  data_filter: dt-water-fire
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-348.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-00.jpg
   category:
-    - Custom Pools,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping dt-structures
+  data_filter: dt-landscaping dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-349.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-349.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Structures,
 
 - title: Desert Tropics Custom Pools
   data_filter: dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-350.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-350.jpg
   category:
     - Structures,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-351.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-351.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-landscaping
+  data_filter: dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-352.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-352.jpg
   category:
-    - Custom Pools,
     - Landscape,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-landscaping
+  data_filter: dt-water-fire dt-landscaping
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-353.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-353.jpg
   category:
-    - Custom Pools,
     - Landscape,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-water-fire dt-structures
+  data_filter: dt-water-fire dt-structures
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-354.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-354.jpg
   category:
-    - Custom Pools,
     - Structures,
     - Fire/Water Feature,
 
 - title: Desert Tropics Custom Pools
-  data_filter: dt-custom dt-geometric
+  data_filter: dt-geometric
   image_path: /assets/images/gallery-images/desert-tropics-custom-pools-355.jpg
+  image_path_thumb: /assets/images/gallery-images/thumbs/desert-tropics-custom-pools-355.jpg
   category:
-    - Custom Pools,
     - Geometric Pool,
