@@ -1,11 +1,11 @@
 - title: About
   href: /about-us/
 - title: Gallery
-  href: /gallery/
+  href: /photo-gallery/
 - title: Customer Pages
   href: /customer-pages/
-- title: Blog
-  href: /blog/
+# - title: Blog
+#   href: /blog/
 - title: Financing
   href: /financing/
 - title: Contact
