@@ -19,7 +19,7 @@ defaults:
     show-avatar: true
 gems:
 - jekyll-feed
-url: "/"
+url: ""
 enforce_ssl: ""
 baseurl: "/deserttropicspools"
 description: Desert Tropics Custom Pools has been building pools in the Valley since 2001. Our President is also the Qualifying Party for our license. We don’t strive to build the most pools in the Valley, though we do strive to build the best pools in the Valley.
