@@ -1809,14 +1809,14 @@ only screen and (                min-resolution: 2dppx) {
 	.preloader,
 	.preloader2,
 	.form-process {
-		background-image: url('{{ site.baseurl }}/assets/images/preloader@2x.gif');
+		background-image: url('');
 		background-size: 24px 24px;
 	}
 
 	.dark .owl-carousel.owl-loading,
 	.dark .preloader,
 	.dark .preloader2,
-	.dark .form-process { background-image: url('{{ site.baseurl }}/assets/images/preloader-dark@2x.gif'); }
+	.dark .form-process { background-image: url(''); }
 
 	.widget_recent_comments li {
 		background-image: url("{{ site.baseurl }}/assets/images/icons/widget-comment@2x.png");

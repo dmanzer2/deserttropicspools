@@ -192,6 +192,10 @@ label small {
   color:red;
 }
 
+.fancy-title.title-border-color:before {
+  top: 61%;
+}
+
 @media only screen and (min-width: 320px) and (max-width: 990px) {
   #recaptcha_response_field, #recaptcha_challenge_image, #recaptcha_image {
     width:100%!important;
