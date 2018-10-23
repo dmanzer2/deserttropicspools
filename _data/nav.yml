@@ -14,7 +14,7 @@
 # - title: Blog
 #   href: /blog/
 - title: Customer Pages
-  href: /customer-pages/
+  href: /customer-pages/maintenance/
   subcategories:
     - subtitle: Maintenance
       subhref: /customer-pages/maintenance/
