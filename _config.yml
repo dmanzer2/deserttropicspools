@@ -48,6 +48,7 @@ exclude:
   - node_modules
   - Gruntfile.js
   - package.json
+  - vendor
 created-by: David Manzer | G2 Design Lab
 creator-url:
   exclude:
